@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Jonyoo Kim
+![Image](jongyoo.jpg)
 
-You can use the [editor on GitHub](https://github.com/jongyookim/jykim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am **Jongyoo Kim**.
 
 ### Markdown
 
@@ -23,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](jongyoo.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
