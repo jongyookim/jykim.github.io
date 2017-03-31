@@ -3,7 +3,11 @@ title: CV
 layout: default
 ---
 
+<div style="text-align:center">
+<img src="jongyoo.jpg" alt="Drawing" style="width: 500px;"/>
+</div>
 
+<!--![Jongyoo](jongyoo.jpg)-->
 
 I am a third-year Computer Science Ph.D. student at Carnegie Mellon University and am supported by an NSF graduate research fellowship. I spent the first two years of my Ph.D. working between mobile systems and applied machine learning and I now work with [Zico Kolter](http://zicokolter.com/) on machine learning and optimization. I am particularly interested in improving our understanding of important modeling problems in computer vision, language, and reinforcement learning through the use of deep learning, optimization (sometimes convex), theory, and statistics. As examples, see our [input-convex neural network](https://arxiv.org/abs/1609.07152) and [OptNet](https://arxiv.org/abs/1703.00443) papers.
 
