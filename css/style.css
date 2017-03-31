@@ -1,0 +1,63 @@
+/*
+ * css styles go here
+ */
+
+
+body {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+a, a:visited {
+  color: navy;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+#header {
+  padding: 4px;
+}
+
+#header .big {
+  font-size:   140%;
+  font-weight: bold;
+}
+
+#header .small {
+  font-size:    90%;
+  color:        grey;
+  padding-left: 15px;
+}
+
+#nav {
+  padding: 6px;
+}
+
+
+table.type04 {
+    border-collapse: separate;
+    border-spacing: 1px;
+    text-align: left;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+  margin : 20px 10px;
+}
+table.type04 th {
+    width: 180px;
+    padding: 10px;
+    font-weight: normal;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+table.type04 td {
+    width: 550px;
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ccc;
+}
+

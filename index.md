@@ -3,132 +3,74 @@ title: CV
 layout: default
 ---
 
-<div style="text-align:center">
+<div style="text-align:left">
 <img src="jongyoo.jpg" alt="Drawing" style="width: 500px;"/>
 </div>
 
 <!--![Jongyoo](jongyoo.jpg)-->
 
-I am a third-year Computer Science Ph.D. student at Carnegie Mellon University and am supported by an NSF graduate research fellowship. I spent the first two years of my Ph.D. working between mobile systems and applied machine learning and I now work with [Zico Kolter](http://zicokolter.com/) on machine learning and optimization. I am particularly interested in improving our understanding of important modeling problems in computer vision, language, and reinforcement learning through the use of deep learning, optimization (sometimes convex), theory, and statistics. As examples, see our [input-convex neural network](https://arxiv.org/abs/1609.07152) and [OptNet](https://arxiv.org/abs/1703.00443) papers.
+Ph.D Candidate<br>
+[Multidimensional Insight Lab.](http://insight.yonsei.ac.kr)<br>
+Yonsei University, Dept. of Electrical and Electronic Engineering<br>
+Tel.: +82-2-2123-7734<br>
+Email: jongky@yonsei.ac.kr
 
-I strongly believe in open science and reproducible research and actively publish code on [my Github profile](https://github.com/bamos). I am also the author of [OpenFace](https://cmusatyalab.github.io/openface/), which is an open source face recognition project that uses deep learning.
+## Research Interest
+- Image quality assessment
+- Quality of Experience of 2D/3D images and videos
+- Deep learning and convolutional neural networks
+- 3D Reconstruction
 
+## Education
 
-## <i class="fa fa-chevron-right"></i> Education
+<!--<style>
+.blueone {
+  border-collapse: collapse;
+}
+.blueone th, td {
+  padding: 10px;
+  border-bottom: 1px solid gray;
+  text-align: left;
+  padding: 5px 20px;
+}
+</style>-->
 
-<table class="table table-hover">
+<table class="type04">
   <tr>
-    <td class="col-md-3">Aug 2014 - Present</td>
+    <th>Mar 2011 - Present</th>
     <td>
-        <strong>Ph.D. in Computer Science</strong>
+        <strong>Ph.D. in Electrical and Electronic Eng.</strong>
         <br>
-      Carnegie Mellon University
+      Yonsei University
     </td>
   </tr>
   <tr>
-    <td class="col-md-3">Aug 2014 - May 2016</td>
+    <th>Mar 2007 - Feb 2011</th>
     <td>
-        <strong>M.S. in Computer Science</strong>
+        <strong>B.S. in Electrical and Electronic Eng.</strong>
         <br>
-      Carnegie Mellon University
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">Aug 2011 - May 2014</td>
-    <td>
-        <strong>B.S. in Computer Science</strong>
-          (3.99/4.00)
-        <br>
-      Virginia Tech
-    </td>
-  </tr>
-  <tr>
-    <td class="col-md-3">May 2011</td>
-    <td>
-      Northside High School (Roanoke, Virginia)
+      Yonsei University
     </td>
   </tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Research Experience
-<table class="table table-hover">
-<tr>
-  <td class='col-md-3'>Apr 2016 - Present</td>
-  <td>
-    <strong>Carnegie Mellon University</strong>, Prof. Zico Kolter <br>
-    Machine learning and optimization
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>Aug 2014 - Apr 2016</td>
-  <td>
-    <strong>Carnegie Mellon University</strong>, Prof. Mahadev Satyanarayanan <br>
-    Applied machine learning and mobile systems
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2012 - May 2014</td>
-  <td>
-    <strong>Virginia Tech</strong>, Prof. Jules White <br>
-    Mobile systems, cyber-physical systems, and security
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2013 - May 2014</td>
-  <td>
-    <strong>Virginia Tech</strong>, Prof. Layne Watson <br>
-    Scientific computing, global/stochastic optimization, and bioinformatics
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>Nov 2012 - Mar 2014</td>
-  <td>
-    <strong>Virginia Tech</strong>, Prof. Binoy Ravindran <br>
-    Heterogeneous compilers
-  </td>
-</tr>
-</table>
+## Selected Publications
 
-
-## <i class="fa fa-chevron-right"></i> Selected Publications <a href="https://github.com/bamos/cv/blob/master/publications/selected.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
-
-<a href="https://scholar.google.com/citations?user=CZwrwHAAAAAJ" class="btn btn-primary" style="padding: 0.3em;">
-  <i class="ai ai-google-scholar"></i> Google Scholar
-</a>
-
-<table class="table table-hover">
+<table class="type04">
 
 <tr>
-<td class="col-md-3"><a href='http://arxiv.org/abs/1703.00443' target='_blank'><img src="images/publications/amos2017optnet.png"/></a> </td>
+<th><img src="images/publications/kim_fully_2016.png"/></th>
 <td>
-    <strong>OptNet: Differentiable Optimization as a Layer in Neural Networks</strong><br>
-    <strong>B. Amos</strong> and J. Kolter<br>
-    arXiv 2017<br>
+    <strong>Fully {Deep Blind Image Quality Predictor}</strong><br>
+    <strong>J. Kim</strong> and S. Lee<br>
+    IEEE Journal of Selected Topics in Signal Processing 2016<br>
     [1]
 [<a href='javascript: none'
-    onclick='$("#abs_amos2017optnet").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.00443' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/optnet' target='_blank'>code</a>] <br>
+    onclick='$("#abs_kim_fully_2016").toggle()'>abs</a>]<br>
 
-<div id="abs_amos2017optnet" style="text-align: justify; display: none" markdown="1">
-This paper presents OptNet, a network architecture that integrates
-optimization problems (here, specifically in the form of quadratic
-programs) as individual layers in larger end-to-end trainable deep
-networks. These layers allow complex dependencies between the hidden
-states to be captured that traditional convolutional and
-fully-connected layers are not able to capture. In this paper, we
-develop the foundations for such an architecture: we derive the
-equations to perform exact differentiation through these layers and
-with respect to layer parameters; we develop a highly efficient solver
-for these layers that exploits fast GPU-based batch solves within a
-primal-dual interior point method, and which provides backpropagation
-gradients with virtually no additional cost on top of the solve; and
-we highlight the application of these approaches in several
-problems. In one particularly standout example, we show that the
-method is capable of learning to play Sudoku given just input and
-output games, with no a priori information about the rules of the
-game; this task is virtually impossible for other neural network
-architectures that we have experimented with, and highlights the
-representation capabilities of our approach.
+<div id="abs_kim_fully_2016" style="text-align: justify; display: none" markdown="1">
+In general, owing to the benefits obtained from original information, full-reference image quality assessment (FR-IQA) achieves relatively higher prediction accuracy than no-reference image quality assessment (NR-IQA). By fully utilizing reference images, conventional FR-IQA methods have been investigated to produce objective scores that are close to subjective scores. In contrast, NR-IQA does not consider reference images; thus, its performance is inferior to that of FR-IQA. To alleviate this accuracy discrepancy between FR-IQA and NR-IQA methods, we propose a blind image evaluator based on a convolutional neural network (BIECON). To imitate FR-IQA behavior, we adopt the strong representation power of a deep convolutional neural network to generate a local quality map, similar to FR-IQA. To obtain the best results from the deep neural network, replacing hand-crafted features with automatically learned features is necessary. To apply the deep model to the NR-IQA framework, three critical problems must be resolved: 1) lack of training data; 2) absence of local ground truth targets; and 3) different purposes of feature learning. BIECON follows the FR-IQA behavior using the local quality maps as intermediate targets for conventional neural networks, which leads to NR-IQA prediction accuracy that is comparable with that of state-of-the-art FR-IQA methods.
 </div>
 
 </td>
@@ -136,29 +78,17 @@ representation capabilities of our approach.
 
 
 <tr>
-<td class="col-md-3"><a href='http://arxiv.org/abs/1703.04529' target='_blank'><img src="images/publications/donti2017task.png"/></a> </td>
+<th><img src="images/publications/kim_blind_2016-1.png"/></th>
 <td>
-    <strong>Task-based End-to-end Model Learning</strong><br>
-    P. Donti, <strong>B. Amos</strong>, and J. Kolter<br>
-    arXiv 2017<br>
+    <strong>Blind {Sharpness Prediction} for {Ultra}-High-Definition {Video Based} on {Human Visual Resolution}</strong><br>
+    H. Kim, <strong>J. Kim</strong>, T. Oh, and S. Lee<br>
+    IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
     [2]
 [<a href='javascript: none'
-    onclick='$("#abs_donti2017task").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.04529' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/e2e-model-learning' target='_blank'>code</a>] <br>
+    onclick='$("#abs_kim_blind_2016-1").toggle()'>abs</a>]<br>
 
-<div id="abs_donti2017task" style="text-align: justify; display: none" markdown="1">
-As machine learning techniques have become more ubiquitous, it has
-become common to see machine learning prediction algorithms operating
-within some larger process. However, the criteria by which we train
-machine learning algorithms often differ from the ultimate criteria on
-which we evaluate them. This paper proposes an end-to-end approach for
-learning probabilistic machine learning models within the context of
-stochastic programming, in a manner that directly captures the
-ultimate task-based objective for which they will be used. We then
-present two experimental evaluations of the proposed approach, one as
-applied to a generic inventory stock problem and the second to a
-real-world electrical grid scheduling task. In both cases, we show
-that the proposed approach can outperform both a traditional modeling
-approach and a purely black-box policy optimization approach.
+<div id="abs_kim_blind_2016-1" style="text-align: justify; display: none" markdown="1">
+We explore a no-reference sharpness assessment model for predicting the perceptual sharpness of ultra-highdefinition (UHD) videos through analysis of visual resolution variation in terms of viewing geometry and scene characteristics. The quality and sharpness of UHD videos are influenced by viewer perception of the spatial resolution afforded by the UHD display, which depends on viewing geometry parameters including display resolution, display size, and viewing distance. In addition, viewers may perceive different degrees of quality and sharpness according to the statistical behavior of the visual signals, such as the motion, texture, and edge, which vary over both spatial and temporal domains. The model also accounts for the resolution variation associated with fixation and foveal regions, which is another important factor affecting the sharpness prediction of UHD video over the spatial domain, and which is caused by the nonuniform distribution of the photoreceptors. We calculate the transition of the visually salient statistical characteristics resulting from changing the display's screen size and resolution. Moreover, we calculated the temporal variation in sharpness over consecutive frames in order to evaluate the temporal sharpness perception of UHD video. We verify that the proposed model outperforms other sharpness models in both spatial and temporal sharpness assessments.
 </div>
 
 </td>
@@ -166,28 +96,17 @@ approach and a purely black-box policy optimization approach.
 
 
 <tr>
-<td class="col-md-3"><a href='http://arxiv.org/abs/1609.07152' target='_blank'><img src="images/publications/amos2016input.png"/></a> </td>
+<th><img src="images/publications/kim_deep_2017.png"/></th>
 <td>
-    <strong>Input Convex Neural Networks</strong><br>
-    <strong>B. Amos</strong>, L. Xu, and J. Kolter<br>
-    arXiv 2016<br>
+    <strong>Deep Learning of Human Visual Sensitivity in {FR}-{IQA} Framework</strong><br>
+    <strong>J. Kim</strong> and S. Lee<br>
+    {IEEE Conference} on {Computer Vision} and {Pattern Recognition} ({CVPR}) 2017<br>
     [3]
 [<a href='javascript: none'
-    onclick='$("#abs_amos2016input").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1609.07152' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/icnn' target='_blank'>code</a>] <br>
+    onclick='$("#abs_kim_deep_2017").toggle()'>abs</a>]<br>
 
-<div id="abs_amos2016input" style="text-align: justify; display: none" markdown="1">
-This paper presents the input convex neural network
-architecture. These are scalar-valued (potentially deep) neural
-networks with constraints on the network parameters such that the
-output of the network is a convex function of (some of) the
-inputs. The networks allow for efficient inference via optimization
-over some inputs to the network given others, and can be applied to
-settings including structured prediction, data imputation, reinforcement learning, and others. In this paper we lay the basic
-groundwork for these models, proposing methods for inference, optimization and learning, and analyze their representational
-power. We show that many existing neural network architectures can be
-made input-convex with only minor modification, and develop
-specialized optimization algorithms tailored to this setting. Finally, we highlight the performance of the methods on multi-label prediction, image completion, and reinforcement learning problems, where we show
-improvement over the existing state of the art in many cases.
+<div id="abs_kim_deep_2017" style="text-align: justify; display: none" markdown="1">
+Since human observers are the ultimate receivers of digital images and videos, quality metrics should be designed from a human-oriented perspective. Conventionally, a number of full-reference image quality assessment (FR-IQA) methods adopted various computational models of the human visual system (HVS) from psychological vision science research. In this paper, we propose a novel convolutional neural networks (CNN) based FR-IQA metric, named deep image quality assessment (DeepQA), where the behavior of the HVS is learned from the underlying data distribution of an IQA database. Different from previous studies, our model seeks the optimal visual weight based on understanding of database information itself without any prior knowledge of the HVS. Through the experiments, we show that the predicted visual sensitivity maps agree with the human subjective opinions. In addition, DeepQA achieves the stat-of-the-art prediction accuracy among the FR-IQA metrics.
 </div>
 
 </td>
@@ -195,30 +114,17 @@ improvement over the existing state of the art in many cases.
 
 
 <tr>
-<td class="col-md-3"><a href='http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/BL-SPN-main.pdf' target='_blank'><img src="images/publications/zhao2016collapsed.png"/></a> </td>
+<th><img src="images/publications/kim_quality_2017.png"/></th>
 <td>
-    <strong>Collapsed Variational Inference for Sum-Product Networks</strong><br>
-    H. Zhao, T. Adel, G. Gordon, and <strong>B. Amos</strong><br>
-    ICML 2016<br>
+    <strong>Quality {Assessment} of {Perceptual Crosstalk} on {Two}-View {Auto}-Stereoscopic {Displays}</strong><br>
+    <strong>J. Kim</strong>, T. Kim, S. Lee, and A. Bovik<br>
+    IEEE Transactions on Image Processing 2017<br>
     [4]
 [<a href='javascript: none'
-    onclick='$("#abs_zhao2016collapsed").toggle()'>abs</a>] [<a href='http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/BL-SPN-main.pdf' target='_blank'>pdf</a>] <br>
+    onclick='$("#abs_kim_quality_2017").toggle()'>abs</a>]<br>
 
-<div id="abs_zhao2016collapsed" style="text-align: justify; display: none" markdown="1">
-Sum-Product Networks (SPNs) are probabilistic inference machines that admit
-exact inference in linear time in the size of the network. Existing
-parameter learning approaches for SPNs are largely based on the maximum
-likelihood principle and hence are subject to overfitting compared to
-more Bayesian approaches. Exact Bayesian posterior inference for SPNs is
-computationally intractable. Both standard variational inference and
-posterior sampling for SPNs are computationally infeasible even for
-networks of moderate size due to the large number of local latent
-variables per instance. In this work, we propose a novel deterministic
-collapsed variational inference algorithm for SPNs that is
-computationally efficient, easy to implement and at the same time allows
-us to incorporate prior information into the optimization formulation.
-Extensive experiments show a significant improvement in accuracy compared
-with a maximum likelihood based approach.
+<div id="abs_kim_quality_2017" style="text-align: justify; display: none" markdown="1">
+Crosstalk is one of the most severe factors affecting the perceived quality of stereoscopic 3D (S3D) images.It arises from a leakage of light intensity between multiple views, as in auto-stereoscopic displays. Well-known determinants of crosstalk include the co-location contrast and disparity of the left and right images, which have been dealt with in prior studies. However, when a natural stereo image that contains complex naturalistic spatial characteristics is viewed on an auto-stereoscopic display, other factors may also play an important role in the perception of crosstalk. Here, we describe a new way of predicting the perceived severity of crosstalk, which we call the Binocular Perceptual Crosstalk Predictor (BPCP). BPCP uses measurements of three complementary 3D image properties (texture, structural duplication and binocular summation) in combination with two well-known factors (co-location contrast and disparity) to make predictions of crosstalk on two-view auto-stereoscopic displays. The new BPCP model includes two masking algorithms and a binocular pooling method. We explore a new masking phenomenon that we call duplicated structure masking, which arises from structural correlations between the original and distorted objects. We also utilize an advanced binocular summation model to develop a binocular pooling algorithm. Our experimental results indicate that BPCP achieves high correlations against subjective test results, improving upon those delivered by previous crosstalk prediction models.
 </div>
 
 </td>
@@ -226,30 +132,17 @@ with a maximum likelihood based approach.
 
 
 <tr>
-<td class="col-md-3"><a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf' target='_blank'><img src="images/publications/amos2016openface.png"/></a> </td>
+<th><img src="images/publications/lee_identification_2017.png"/></th>
 <td>
-    <strong>OpenFace: A general-purpose face recognition library with mobile applications</strong><br>
-    <strong>B. Amos</strong>, B. Ludwiczuk, and M. Satyanarayanan<br>
-    CMU 2016<br>
+    <strong>An {Identification Framework} for {Print}-{Scan Books} in a {Large Database}</strong><br>
+    S. Lee, <strong>J. Kim</strong>, and S. Lee<br>
+    Information Sciences 2017<br>
     [5]
 [<a href='javascript: none'
-    onclick='$("#abs_amos2016openface").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf' target='_blank'>pdf</a>]  [<a href='https://cmusatyalab.github.io/openface' target='_blank'>code</a>] <br>
+    onclick='$("#abs_lee_identification_2017").toggle()'>abs</a>]<br>
 
-<div id="abs_amos2016openface" style="text-align: justify; display: none" markdown="1">
-Cameras are becoming ubiquitous in the Internet of Things (IoT) and
-can use face recognition technology to improve context. There is a
-large accuracy gap between today's publicly available face recognition
-systems and the state-of-the-art private face recognition
-systems. This paper presents our OpenFace face recognition library
-that bridges this accuracy gap. We show that OpenFace provides
-near-human accuracy on the LFW benchmark and present a new
-classification benchmark for mobile scenarios. This paper is intended
-for non-experts interested in using OpenFace and provides a light
-introduction to the deep neural network techniques we use.
-
-We released OpenFace in October 2015 as an open source library under
-the Apache 2.0 license. It is available at:
-<http://cmusatyalab.github.io/openface/>
+<div id="abs_lee_identification_2017" style="text-align: justify; display: none" markdown="1">
+In this paper, we propose an identification framework to determine copyright infringement in the form of illegally distributed print-scan books in a large database. The framework contains following main stages: image pre-processing, feature vector extraction, clustering, and indexing, and hierarchical search. The image pre-processing stage provides methods for alleviating the distortions induced by a scanner or digital camera. From the pre-processed image, we propose to generate feature vectors that are robust against distortion. To enhance the clustering performance in a large database, we use a clustering method based on the parallel-distributed computing of Hadoop MapReduce. In addition, to store the clustered feature vectors efficiently and minimize the searching time, we investigate an inverted index for feature vectors. Finally, we implement a two-step hierarchical search to achieve fast and accurate on-line identification. In a simulation, the proposed identification framework shows accurate and robust in the presence of print-scan distortions. The processing time analysis in a parallel computing environment gives extensibility of the proposed framework to massive data. In the matching performance analysis, we empirically and theoretically find that in terms of query time, the optimal number of clusters scales with O ( N ) for N print-scan books.
 </div>
 
 </td>
@@ -257,26 +150,186 @@ the Apache 2.0 license. It is available at:
 
 
 <tr>
-<td class="col-md-3"><a href='https://vtechworks.lib.vt.edu/bitstream/handle/10919/49672/qnTOMS14.pdf' target='_blank'><img src="images/publications/amos2014QNSTOP.png"/></a> </td>
+<th><img src="images/publications/kim_perceptual_2016.png"/></th>
 <td>
-    <strong>QNSTOP-QuasiNewton Algorithm for Stochastic Optimization</strong><br>
-    <strong>B. Amos</strong>, D. Easterling, L. Watson, W. Thacker, B. Castle, and M. Trosset<br>
-    VT 2014<br>
+    <strong>Perceptual {Crosstalk Prediction} on {Autostereoscopic 3D Display}</strong><br>
+    T. Kim, <strong>J. Kim</strong>, S. Kim, S. Cho, and S. Lee<br>
+    IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
     [6]
 [<a href='javascript: none'
-    onclick='$("#abs_amos2014QNSTOP").toggle()'>abs</a>] [<a href='https://vtechworks.lib.vt.edu/bitstream/handle/10919/49672/qnTOMS14.pdf' target='_blank'>pdf</a>] <br>
+    onclick='$("#abs_kim_perceptual_2016").toggle()'>abs</a>]<br>
 
-<div id="abs_amos2014QNSTOP" style="text-align: justify; display: none" markdown="1">
-QNSTOP consists of serial and parallel (OpenMP) Fortran 2003 codes for the
-quasi-Newton stochastic optimization method of Castle and Trosset. For
-stochastic problems, convergence theory exists for the particular
-algorithmic choices and parameter values used in QNSTOP. Both the parallel
-driver subroutine, which offers several parallel decomposition strategies, and the serial driver subroutine can be used for stochastic optimization or
-deterministic global optimization, based on an input switch. QNSTOP is
-particularly effective for “noisy” deterministic problems, using only
-objective function values. Some performance data for computational systems
-biology problems is given.
+<div id="abs_kim_perceptual_2016" style="text-align: justify; display: none" markdown="1">
+Perceptual crosstalk prediction for autostereoscopic 3D displays is of fundamental importance in determining the level of quality perceived by humans in terms of the display performance and the 3D viewing experience. However, no robust framework exists to quantify perceptual crosstalk while taking into account the hardware structure of a display as well as its content characteristics via content analysis. In this paper, we present a 3D Perceptual Crosstalk Predictor (3D-PCP) that can be used to predict crosstalk in a unique way when viewing autostereoscopic 3D displays. 3D-PCP captures hardware features using an Optical Fourier transform - Light Measurement Device and content features through content analysis based on information theory. By deriving the disparity, luminance, color, and texture maps, this approach defines the visual entropy, mutual information, and relative entropy in order to investigate the influences of the 3D scene characteristics on perceptual crosstalk. The experimental results demonstrate that the 3D-PCP output is highly correlated with subjective scores.
 </div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/junghwan2015implementation.png"/></th>
+<td>
+    <strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong><br>
+    <strong>J. Kim</strong>, I. Lee, <strong>J. Kim</strong>, and S. Lee<br>
+    IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015<br>
+    [7]<br>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kim_no-reference_2016.png"/></th>
+<td>
+    <strong>No-Reference Perceptual Sharpness Assessment for Ultra-High-Definition Images</strong><br>
+    W. Kim, H. Kim, H. Oh, <strong>J. Kim</strong>, and S. Lee<br>
+    {IEEE International Conference} on {Image Processing} ({ICIP}) 2016<br>
+    [8]
+[<a href='javascript: none'
+    onclick='$("#abs_kim_no-reference_2016").toggle()'>abs</a>]<br>
+
+<div id="abs_kim_no-reference_2016" style="text-align: justify; display: none" markdown="1">
+Since ultra-high-definition (UHD) display has larger resolution and various display size, it is necessary to measure image sharpness considering variation in visual resolution caused by diverse viewing geometry. In this paper, we propose a no-reference perceptual sharpness assessment model of UHD images. The proposed model analyzes viewing geometry in terms of display resolution and viewing environment. Then, we measure the local adaptive sharpness score in accordance with the textural motion blur, texture, and edge. In addition, we propose a spatial pooling method associated with foveal regions, which is caused by nonuniform distribution of the photoreceptors on a human retina. Through the rigorous experiments, we demonstrate that the proposed model can measure the sharpness of UHD images more accurately than other image sharpness assessment methods.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kim_video_2015.png"/></th>
+<td>
+    <strong>Video Sharpness Prediction Based on Motion Blur Analysis</strong><br>
+    <strong>J. Kim</strong>, <strong>J. Kim</strong>, W. Kim, J. Lee, and S. Lee<br>
+    {IEEE International Conference} on {Multimedia} and {Expo} ({ICME}) 2015<br>
+    [9]
+[<a href='javascript: none'
+    onclick='$("#abs_kim_video_2015").toggle()'>abs</a>]<br>
+
+<div id="abs_kim_video_2015" style="text-align: justify; display: none" markdown="1">
+For high bit rate video, it is important to acquire the video contents with high resolution, the quality of which may be degraded due to the motion blur from the movement of an object(s) or the camera. However, conventional sharpness assessments are designed to find focal blur caused either by defocusing or by compression distortion targeted for low bit rates. To overcome this limitation, we present a no-reference framework of a visual sharpness assessment (VSA) for high-resolution video based on the motion and scene classification. In the proposed framework, the accuracy of the sharpness estimation can be improved via pooling weighted by the visual perception from the object and camera movements and by the strong influence from the region with the highest sharpness. Based on the motion blur characteristics, the variance and the contrast over the spectral domain are used to quantify the perceived sharpness. Moreover, for the VSA, we extract the highly influential sharper regions and emphasize them by utilizing the scene adaptive pooling.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/oh_3d_2015.png"/></th>
+<td>
+    <strong>{3D} Visual Discomfort Predictor Based on Neural Activity Statistics</strong><br>
+    H. Oh, <strong>J. Kim</strong>, S. Lee, and A. Bovik<br>
+    2015 {IEEE International Conference} on {Image Processing} ({ICIP}) 2015<br>
+    [10]
+[<a href='javascript: none'
+    onclick='$("#abs_oh_3d_2015").toggle()'>abs</a>]<br>
+
+<div id="abs_oh_3d_2015" style="text-align: justify; display: none" markdown="1">
+Visual discomfort assessment (VDA) on stereoscopic images is of fundamental importance for making decisions regarding visual fatigue caused by unnatural binocular alignment. Nevertheless, no solid framework exists to quantify this discomfort using models of the responses of visual neurons. Binocular vision is realized by means of neural mechanisms that subserve the sensorimotor control of eye movements. We propose a neuronal model-based framework called Neural 3D Visual Discomfort Predictor (N3D-VDP) that automatically predicts the level of visual discomfort experienced when viewing stereoscopic 3D (S3D) images. The N3D-VDP model extracts features derived by estimating the neural activity associated with the processing of binocular disparities. In this regard we deploy a model of disparity processing in the extra-striate middle temporal (MT) region of occipital lobe. We compare the performance of N3D-VDP with other recent VDA algorithms using correlations against reported subjective visual discomfort, and show that N3D-VDP is statistically superior to the other methods.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kwon_implementation_2015.png"/></th>
+<td>
+    <strong>Implementation of {Human Action Recognition System Using Multiple Kinect Sensors}</strong><br>
+    B. Kwon, D. Kim, <strong>J. Kim</strong>, I. Lee, <strong>J. Kim</strong>, H. Oh, H. Kim, and S. Lee<br>
+    Advances in {Multimedia Information Processing} - {PCM} 2015 2015<br>
+    [11]
+[<a href='javascript: none'
+    onclick='$("#abs_kwon_implementation_2015").toggle()'>abs</a>]<br>
+
+<div id="abs_kwon_implementation_2015" style="text-align: justify; display: none" markdown="1">
+Human action recognition is an important research topic that has many potential applications such as video surveillance, human-computer interaction and virtual reality combat training. However, many researches of human action recognition have been performed in single camera system, and has low performance due to vulnerability to partial occlusion. In this paper, we propose a human action recognition system using multiple Kinect sensors to overcome the limitation of conventional single camera based human action recognition system. To test feasibility of the proposed system, we use the snapshot and temporal features which are extracted from three-dimensional (3D) skeleton data sequences, and apply the support vector machine (SVM) for classification of human action. The experiment results demonstrate the feasibility of the proposed system.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kim_quality_2014.png"/></th>
+<td>
+    <strong>Quality Assessment of Perceptual Crosstalk in Autostereoscopic Display</strong><br>
+    <strong>J. Kim</strong>, T. Kim, and S. Lee<br>
+    2014 {IEEE International Conference} on {Image Processing} ({ICIP}) 2014<br>
+    [12]
+[<a href='javascript: none'
+    onclick='$("#abs_kim_quality_2014").toggle()'>abs</a>]<br>
+
+<div id="abs_kim_quality_2014" style="text-align: justify; display: none" markdown="1">
+Crosstalk is one of the most annoying problems in an autostereoscopic display causing perceptual quality degradation and visual discomfort. To predict the perceived crosstalk when viewing an autostereoscopic display, it is necessary to consider the characteristics of human perception, displaying mechanism, viewing environment and so on. Therefor, we propose a novel metric for predicting the perceptual crosstalk that is based on human visual system (HVS); non-linear sensitivity of luminance and masking effects. The proposed model adopts the duplicated structure masking, yielding predictive power that is statistically superior to prior models that rely on 2D quality metric.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kim_ego_2013.png"/></th>
+<td>
+    <strong>Ego Motion Induced Visual Discomfort of Stereoscopic Video</strong><br>
+    <strong>J. Kim</strong>, K. Oh, and S. Lee<br>
+    2013 {Asia}-{Pacific Signal} and {Information Processing Association Annual Summit} and {Conference} 2013<br>
+    [13]
+[<a href='javascript: none'
+    onclick='$("#abs_kim_ego_2013").toggle()'>abs</a>]<br>
+
+<div id="abs_kim_ego_2013" style="text-align: justify; display: none" markdown="1">
+When each video sequence is captured, an inappropriate camera motion should be one of crucial factors leading to visual discomfort and distortion. The well known symptom, visually induced motion sickness (VIMS) is caused by the illusion of self motion by perceiving the video with ego motion. In particular, for the stereoscopic 3D video, it can be easily observed that the viewers have dominantly feel much more severe symptoms of visual discomfort. In this paper, we analyze the ego motion of the stereoscopic video and predict the effects. We attempt a novel approach by exploiting the computer vision algorithm. We propose a novel method which can estimate the perceptual 3D ego motion from the stereoscopic video. Then we analyze the ego motion components to predict the visual discomfort of stereoscopic video.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kim_human_2016.png"/></th>
+<td>
+    <strong>Human {Gait Prediction} Method Using {Microsoft Kinect}</strong><br>
+    <strong>J. Kim</strong>, D. Kim, I. Lee, <strong>J. Kim</strong>, H. Oh, and S. Lee<br>
+    International {Workshop} on {Advanced Image Technology} ({IWAIT}) 2016<br>
+    [14]<br>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/oh_construction_2013.png"/></th>
+<td>
+    <strong>Construction of {Stereoscopic 3D Video Database}</strong><br>
+    H. Oh, <strong>J. Kim</strong>, and S. Lee<br>
+    Global {3D TECH Forum} 2013<br>
+    [15]<br>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kim_effects_2012.png"/></th>
+<td>
+    <strong>Effects on {3D Experience} by {Space Distortion} in {Stereoscopic Video}</strong><br>
+    <strong>J. Kim</strong> and S. Lee<br>
+    Global {3D TECH Forum} 2012<br>
+    [16]<br>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kim_visual_2012.png"/></th>
+<td>
+    <strong>Visual {Stimuli Using 3D Graphic Software} for {3D Quality Assessment}</strong><br>
+    <strong>J. Kim</strong> and S. Lee<br>
+    International {Conference} on {3D Systems} and {Applications} ({3DSA}) 2012<br>
+    [17]<br>
 
 </td>
 </tr>
@@ -285,10 +338,10 @@ biology problems is given.
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Industry Experience
-<table class="table table-hover">
+## Industry Experience
+<table class="type04">
 <tr>
-  <td class='col-md-3'>May 2014 - Aug 2014</td>
+  <th>May 2014 - Aug 2014</th>
   <td><strong>Adobe Research</strong>, Data Scientist Intern</td>
 </tr>
 <tr>
@@ -300,415 +353,62 @@ I built a web analytics processing engine using **Scala**, **Spark**, **Spray**,
 </ul>
 </td>
 </tr>
-<tr>
-  <td class='col-md-3'>Dec 2013 - Jan 2014</td>
-  <td><strong>Snowplow Analytics</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-Open-source **Scala** development with a startup on the Snowplow analytics platform. My commits are online at [https://github.com/snowplow/snowplow/commits?author=bamos](https://github.com/snowplow/snowplow/commits?author=bamos).
-</li>
-<li markdown="1">
-Developed a new server using **Spray** and **Actors** to store **Thrift** events on **Amazon Kinesis**.
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2013 - Aug 2013</td>
-  <td><strong>Qualcomm</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I created a specification format language translator for fuzz testing with Python.
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2012 - Aug 2012</td>
-  <td><strong>Phoenix Integration</strong>, Software Engineer Intern</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed industry software for software integration and design process optimization in **VC++**, **VC\#**, and **Java**.
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2011 - Aug 2011</td>
-  <td><strong>Sunapsys</strong>, Network Administrator Intern</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-Internship in high school to replace Windows domain, mail, DHCP, and DNS servers with virtual **Linux** servers using **KVM** and **virsh**.
-</li>
-</ul>
-</td>
-</tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> CMU Graduate Coursework
-+ Statistical Machine Learning (10-702, Au), L. Wasserman, S2017
-+ Deep Reinforcement Learning (10-703), R. Salakhutdinov and A. Fragkiadaki, S2017
-+ Intermediate Statistics (10-705, Au), L. Wasserman, F2016
-+ Topics in Deep Learning (10-807), R. Salakhutdinov, F2016
-+ Convex Optimization (10-725), R. J. Tibshirani, F2015
-+ Algorithms in the Real World (15-853), G. Blelloch and A. Gupta, F2015
-+ Semantics of Programming Languages (15-812), A. Platzer, S2015
-+ Optimizing Compilers for Modern Architecture (15-745), T. Mowry, S2015
-+ Advanced Operating and Distributed Systems (15-712), D. Andersen, F2014
-+ Mobile and Pervasive Computing (15-812), M. Satyanarayanan and D. Siewiorek, F2014
 
-
-## <i class="fa fa-chevron-right"></i> Honors & Awards
-<table class="table table-hover">
+## Honors & Awards
+<table class="type04">
 <tr>
-  <td class='col-md-2'>2016 - 2019</td>
+  <th>2016</th>
   <td>
-    NSF Graduate Research Fellowship
+    Bronze Best Paper Award in IEEE Seoul Section Student Paper Contest 2016
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2014</td>
+  <th>2013</th>
   <td>
-    1st Place Undergraduate Senior Capstone Award, Virginia Tech Computer Science
+    IEEE IVMSP Workshop 2013 Volunteer Award, IEEE Singnal Processing Society
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2014</td>
+  <th>2011 - 2015</th>
   <td>
-    David Heilman Research Award, Virginia Tech Computer Science
+    Global Ph.D Fellowship, National Research Foundation of Korea
     <!--  -->
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>2014</td>
+  <th>2015 - Present</th>
   <td>
-    Senior Scholar Award, Virginia Tech Computer Science
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2014</td>
-  <td>
-    Honorable Mention, CRA Outstanding Undergraduate Researcher Award
-    <!--  -->
-  </td>
-</tr>
-<tr>
-  <td class='col-md-2'>2011 - 2014</td>
-  <td>
-    Awarded eight undergraduate merit scholarships
+    Secretary of the IEEE Human Factors for Visual Experiences WG (P3333.1.1/2)
     <!--  -->
   </td>
 </tr>
 </table>
 
 
-## <i class="fa fa-chevron-right"></i> Skills
-<table class="table table-hover">
+## Skills
+<table class="type04">
 <tr>
-  <td class='col-md-2'>Languages</td>
+  <th>Languages</th>
   <td markdown="1">
-Bash, C, C++, CSS, Fortran, Haskell, HTML, Java, JavaScript, LaTeX, Lua, Make, *Mathematica*, Python, R, Scala
+C, C++, Java, Mathematica, Matlab, Python, LaTeX
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Frameworks</td>
+  <th>Frameworks</th>
   <td markdown="1">
-Akka, Android SDK/NDK, Caffe, Node.js, NumPy, TensorFlow, Torch7, Pandas, SciPy, scikit-learn, Spark, Spray
+Theano, TensorFlow, Android SDK/NDK, NumPy, OpenCV
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Systems</td>
+  <th>Systems</th>
   <td markdown="1">
-Linux, OSX
+Windows, OSX
   </td>
 </tr>
 </table>
 
-
-## <i class="fa fa-chevron-right"></i> All Publications <a href="https://github.com/bamos/cv/blob/master/publications/"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
-
-<a href="https://scholar.google.com/citations?user=CZwrwHAAAAAJ" class="btn btn-primary" style="padding: 0.3em;">
-  <i class="ai ai-google-scholar"></i> Google Scholar
-</a>
-
-
-### Journal Articles <a href="https://github.com/bamos/cv/blob/master/publications/tech-reports.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
-
-<table class="table table-hover">
-
-<tr>
-<td>
-    <strong>OptNet: Differentiable Optimization as a Layer in Neural Networks</strong><br>
-    <strong>B. Amos</strong> and J. Kolter<br>
-    arXiv 2017<br>
-    [P1]
-[<a href='javascript: none'
-    onclick='$("#abs_amos2017optnetP").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.00443' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/optnet' target='_blank'>code</a>] <br>
-
-<div id="abs_amos2017optnetP" style="text-align: justify; display: none" markdown="1">
-This paper presents OptNet, a network architecture that integrates
-optimization problems (here, specifically in the form of quadratic
-programs) as individual layers in larger end-to-end trainable deep
-networks. These layers allow complex dependencies between the hidden
-states to be captured that traditional convolutional and
-fully-connected layers are not able to capture. In this paper, we
-develop the foundations for such an architecture: we derive the
-equations to perform exact differentiation through these layers and
-with respect to layer parameters; we develop a highly efficient solver
-for these layers that exploits fast GPU-based batch solves within a
-primal-dual interior point method, and which provides backpropagation
-gradients with virtually no additional cost on top of the solve; and
-we highlight the application of these approaches in several
-problems. In one particularly standout example, we show that the
-method is capable of learning to play Sudoku given just input and
-output games, with no a priori information about the rules of the
-game; this task is virtually impossible for other neural network
-architectures that we have experimented with, and highlights the
-representation capabilities of our approach.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>Task-based End-to-end Model Learning</strong><br>
-    P. Donti, <strong>B. Amos</strong>, and J. Kolter<br>
-    arXiv 2017<br>
-    [P2]
-[<a href='javascript: none'
-    onclick='$("#abs_donti2017taskP").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1703.04529' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/e2e-model-learning' target='_blank'>code</a>] <br>
-
-<div id="abs_donti2017taskP" style="text-align: justify; display: none" markdown="1">
-As machine learning techniques have become more ubiquitous, it has
-become common to see machine learning prediction algorithms operating
-within some larger process. However, the criteria by which we train
-machine learning algorithms often differ from the ultimate criteria on
-which we evaluate them. This paper proposes an end-to-end approach for
-learning probabilistic machine learning models within the context of
-stochastic programming, in a manner that directly captures the
-ultimate task-based objective for which they will be used. We then
-present two experimental evaluations of the proposed approach, one as
-applied to a generic inventory stock problem and the second to a
-real-world electrical grid scheduling task. In both cases, we show
-that the proposed approach can outperform both a traditional modeling
-approach and a purely black-box policy optimization approach.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>Input Convex Neural Networks</strong><br>
-    <strong>B. Amos</strong>, L. Xu, and J. Kolter<br>
-    arXiv 2016<br>
-    [P3]
-[<a href='javascript: none'
-    onclick='$("#abs_amos2016inputP").toggle()'>abs</a>] [<a href='http://arxiv.org/abs/1609.07152' target='_blank'>pdf</a>]  [<a href='https://github.com/locuslab/icnn' target='_blank'>code</a>] <br>
-
-<div id="abs_amos2016inputP" style="text-align: justify; display: none" markdown="1">
-This paper presents the input convex neural network
-architecture. These are scalar-valued (potentially deep) neural
-networks with constraints on the network parameters such that the
-output of the network is a convex function of (some of) the
-inputs. The networks allow for efficient inference via optimization
-over some inputs to the network given others, and can be applied to
-settings including structured prediction, data imputation, reinforcement learning, and others. In this paper we lay the basic
-groundwork for these models, proposing methods for inference, optimization and learning, and analyze their representational
-power. We show that many existing neural network architectures can be
-made input-convex with only minor modification, and develop
-specialized optimization algorithms tailored to this setting. Finally, we highlight the performance of the methods on multi-label prediction, image completion, and reinforcement learning problems, where we show
-improvement over the existing state of the art in many cases.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>OpenFace: A general-purpose face recognition library with mobile applications</strong><br>
-    <strong>B. Amos</strong>, B. Ludwiczuk, and M. Satyanarayanan<br>
-    CMU 2016<br>
-    [P4]
-[<a href='javascript: none'
-    onclick='$("#abs_amos2016openfaceP").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2016/CMU-CS-16-118.pdf' target='_blank'>pdf</a>]  [<a href='https://cmusatyalab.github.io/openface' target='_blank'>code</a>] <br>
-
-<div id="abs_amos2016openfaceP" style="text-align: justify; display: none" markdown="1">
-Cameras are becoming ubiquitous in the Internet of Things (IoT) and
-can use face recognition technology to improve context. There is a
-large accuracy gap between today's publicly available face recognition
-systems and the state-of-the-art private face recognition
-systems. This paper presents our OpenFace face recognition library
-that bridges this accuracy gap. We show that OpenFace provides
-near-human accuracy on the LFW benchmark and present a new
-classification benchmark for mobile scenarios. This paper is intended
-for non-experts interested in using OpenFace and provides a light
-introduction to the deep neural network techniques we use.
-
-We released OpenFace in October 2015 as an open source library under
-the Apache 2.0 license. It is available at:
-<http://cmusatyalab.github.io/openface/>
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>Are Cloudlets Necessary?</strong><br>
-    Y. Gao, W. Hu, K. Ha, <strong>B. Amos</strong>, P. Pillai, and M. Satyanarayanan<br>
-    CMU 2015<br>
-    [P5]
-[<a href='javascript: none'
-    onclick='$("#abs_gao2015cloudletsP").toggle()'>abs</a>] [<a href='http://reports-archive.adm.cs.cmu.edu/anon/anon/2015/CMU-CS-15-139.pdf' target='_blank'>pdf</a>] <br>
-
-<div id="abs_gao2015cloudletsP" style="text-align: justify; display: none" markdown="1">
-We present experimental results from Wi-Fi and 4G LTE networks to validate the
-intuition that low end-to-end latency of cloud services improves application
-response time and reduces energy consumption on mobile devices. We focus
-specifically on computational offloading as a cloud service. Using a wide
-range of applications, and exploring both pre-partitioned and dynamically
-partitioned approaches, we demonstrate the importance of low latency for
-cloud offload services. We show the best performance is achieved by
-offloading to cloudlets, which are small-scale edge-located data centers. Our
-results show that cloudlets can improve response times 51% and reduce energy
-consumption in a mobile device by up to 42% compared to cloud offload.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>Adaptive VM handoff across cloudlets</strong><br>
-    K. Ha, Y. Abe, Z. Chen, W. Hu, <strong>B. Amos</strong>, P. Pillai, and M. Satyanarayanan<br>
-    CMU 2015<br>
-    [P6]
-[<a href='javascript: none'
-    onclick='$("#abs_ha2015adaptiveP").toggle()'>abs</a>] [<a href='http://ra.adm.cs.cmu.edu/anon/2015/CMU-CS-15-113.pdf' target='_blank'>pdf</a>] <br>
-
-<div id="abs_ha2015adaptiveP" style="text-align: justify; display: none" markdown="1">
-Cloudlet offload is a valuable technique for ensuring low end-to-end latency of
-resource-intensive cloud processing for many emerging mobile applications.
-This paper examines the impact of user mobility on cloudlet offload, and
-shows that even modest user mobility can result in significant network
-degradation. We propose VM handoff as a technique for seamlessly transferring
-VMencapsulated execution to a more optimal offload site as users move. Our
-approach can perform handoff in roughly a minute even over limited WANs by
-adaptively reducing data transferred. We present experimental results to
-validate our implementation and to demonstrate effectiveness of adaptation to
-changing network conditions and processing capacity
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>QNSTOP-QuasiNewton Algorithm for Stochastic Optimization</strong><br>
-    <strong>B. Amos</strong>, D. Easterling, L. Watson, W. Thacker, B. Castle, and M. Trosset<br>
-    VT 2014<br>
-    [P7]
-[<a href='javascript: none'
-    onclick='$("#abs_amos2014QNSTOPP").toggle()'>abs</a>] [<a href='https://vtechworks.lib.vt.edu/bitstream/handle/10919/49672/qnTOMS14.pdf' target='_blank'>pdf</a>] <br>
-
-<div id="abs_amos2014QNSTOPP" style="text-align: justify; display: none" markdown="1">
-QNSTOP consists of serial and parallel (OpenMP) Fortran 2003 codes for the
-quasi-Newton stochastic optimization method of Castle and Trosset. For
-stochastic problems, convergence theory exists for the particular
-algorithmic choices and parameter values used in QNSTOP. Both the parallel
-driver subroutine, which offers several parallel decomposition strategies, and the serial driver subroutine can be used for stochastic optimization or
-deterministic global optimization, based on an input switch. QNSTOP is
-particularly effective for “noisy” deterministic problems, using only
-objective function values. Some performance data for computational systems
-biology problems is given.
-</div>
-
-</td>
-</tr>
-
-
-</table>
-
-### Conference Proceedings <a href="https://github.com/bamos/cv/blob/master/publications/conference.bib"><i class="fa fa-code-fork" aria-hidden="true"></i></a>
-
-<table class="table table-hover">
-
-<tr>
-<td>
-    <strong>Collapsed Variational Inference for Sum-Product Networks</strong><br>
-    H. Zhao, T. Adel, G. Gordon, and <strong>B. Amos</strong><br>
-    ICML 2016<br>
-    [C1]
-[<a href='javascript: none'
-    onclick='$("#abs_zhao2016collapsedC").toggle()'>abs</a>] [<a href='http://www.cs.cmu.edu/~hzhao1/papers/ICML2016/BL-SPN-main.pdf' target='_blank'>pdf</a>] <br>
-
-<div id="abs_zhao2016collapsedC" style="text-align: justify; display: none" markdown="1">
-Sum-Product Networks (SPNs) are probabilistic inference machines that admit
-exact inference in linear time in the size of the network. Existing
-parameter learning approaches for SPNs are largely based on the maximum
-likelihood principle and hence are subject to overfitting compared to
-more Bayesian approaches. Exact Bayesian posterior inference for SPNs is
-computationally intractable. Both standard variational inference and
-posterior sampling for SPNs are computationally infeasible even for
-networks of moderate size due to the large number of local latent
-variables per instance. In this work, we propose a novel deterministic
-collapsed variational inference algorithm for SPNs that is
-computationally efficient, easy to implement and at the same time allows
-us to incorporate prior information into the optimization formulation.
-Extensive experiments show a significant improvement in accuracy compared
-with a maximum likelihood based approach.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<td>
-    <strong>Applying machine learning classifiers to dynamic Android malware detection at scale</strong><br>
-    <strong>B. Amos</strong>, H. Turner, and J. White<br>
-    IWCMC 2013<br>
-    [C2]
-[<a href='javascript: none'
-    onclick='$("#abs_amos2013applyingC").toggle()'>abs</a>] [<a href='http://bamos.github.io/data/papers/amos-iwcmc2013.pdf' target='_blank'>pdf</a>]  [<a href='https://github.com/VT-Magnum-Research/antimalware' target='_blank'>code</a>] <br>
-
-<div id="abs_amos2013applyingC" style="text-align: justify; display: none" markdown="1">
-The widespread adoption and contextually sensitive
-nature of smartphone devices has increased concerns over smartphone
-malware. Machine learning classifiers are a current method
-for detecting malicious applications on smartphone systems. This
-paper presents the evaluation of a number of existing classifiers, using a dataset containing thousands of real (i.e. not synthetic)
-applications. We also present our STREAM framework, which
-was developed to enable rapid large-scale validation of mobile
-malware machine learning classifiers.
-</div>
-
-</td>
-</tr>
-
-
-</table>

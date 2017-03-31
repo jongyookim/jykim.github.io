@@ -1,14 +1,15 @@
-### your site title here
+###########
+# site.title
 
-title: Jongyoo Kim
-
-
-### let's use the minima theme (see https://github.com/jekyll/minima)
-
-theme: minima
+title:    'Jongyoo Kim'
+subtitle: 'Curriculum Vitae'
 
 
-### exclude the instructions / write-up in the README.md
+#########################
+# more settings
+
+markdown: kramdown
 
 exclude:
 - README.md
+- LICENSE.md
