@@ -116,17 +116,17 @@ In general, owing to the benefits obtained from original information, full-refer
 
 
 <tr>
-<th><img src="images/publications/kim_blind_2016-1.png"/></th>
+<th><img src="images/publications/lee_identification_2017.png"/></th>
 <td>
-    <strong>Blind Sharpness Prediction for Ultra-High-Definition Video Based on Human Visual Resolution</strong><br>
-    H. Kim, <strong>Jongyoo Kim</strong>, T. Oh, and S. Lee<br>
-    IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
+    <strong>An Identification Framework for Print-Scan Books in a Large Database</strong><br>
+    S. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
+    Information Sciences 2017<br>
     [4]
 [<a href='javascript: none'
-    onclick='toggle("abs_kim_blind_2016-1")'>abs</a>]<br>
+    onclick='toggle("abs_lee_identification_2017")'>abs</a>]<br>
 
-<div id="abs_kim_blind_2016-1" style="text-align: justify; display: none" markdown="1">
-We explore a no-reference sharpness assessment model for predicting the perceptual sharpness of ultra-highdefinition (UHD) videos through analysis of visual resolution variation in terms of viewing geometry and scene characteristics. The quality and sharpness of UHD videos are influenced by viewer perception of the spatial resolution afforded by the UHD display, which depends on viewing geometry parameters including display resolution, display size, and viewing distance. In addition, viewers may perceive different degrees of quality and sharpness according to the statistical behavior of the visual signals, such as the motion, texture, and edge, which vary over both spatial and temporal domains. The model also accounts for the resolution variation associated with fixation and foveal regions, which is another important factor affecting the sharpness prediction of UHD video over the spatial domain, and which is caused by the nonuniform distribution of the photoreceptors. We calculate the transition of the visually salient statistical characteristics resulting from changing the display's screen size and resolution. Moreover, we calculated the temporal variation in sharpness over consecutive frames in order to evaluate the temporal sharpness perception of UHD video. We verify that the proposed model outperforms other sharpness models in both spatial and temporal sharpness assessments.
+<div id="abs_lee_identification_2017" style="text-align: justify; display: none" markdown="1">
+In this paper, we propose an identification framework to determine copyright infringement in the form of illegally distributed print-scan books in a large database. The framework contains following main stages: image pre-processing, feature vector extraction, clustering, and indexing, and hierarchical search. The image pre-processing stage provides methods for alleviating the distortions induced by a scanner or digital camera. From the pre-processed image, we propose to generate feature vectors that are robust against distortion. To enhance the clustering performance in a large database, we use a clustering method based on the parallel-distributed computing of Hadoop MapReduce. In addition, to store the clustered feature vectors efficiently and minimize the searching time, we investigate an inverted index for feature vectors. Finally, we implement a two-step hierarchical search to achieve fast and accurate on-line identification. In a simulation, the proposed identification framework shows accurate and robust in the presence of print-scan distortions. The processing time analysis in a parallel computing environment gives extensibility of the proposed framework to massive data. In the matching performance analysis, we empirically and theoretically find that in terms of query time, the optimal number of clusters scales with O ( N ) for N print-scan books.
 </div>
 
 </td>
@@ -134,17 +134,17 @@ We explore a no-reference sharpness assessment model for predicting the perceptu
 
 
 <tr>
-<th><img src="images/publications/lee_identification_2017.png"/></th>
+<th><img src="images/publications/kim_blind_2016-1.png"/></th>
 <td>
-    <strong>An Identification Framework for Print-Scan Books in a Large Database</strong><br>
-    S. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
-    Information Sciences 2017<br>
+    <strong>Blind Sharpness Prediction for Ultra-High-Definition Video Based on Human Visual Resolution</strong><br>
+    H. Kim, <strong>Jongyoo Kim</strong>, T. Oh, and S. Lee<br>
+    IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
     [5]
 [<a href='javascript: none'
-    onclick='toggle("abs_lee_identification_2017")'>abs</a>]<br>
+    onclick='toggle("abs_kim_blind_2016-1")'>abs</a>]<br>
 
-<div id="abs_lee_identification_2017" style="text-align: justify; display: none" markdown="1">
-In this paper, we propose an identification framework to determine copyright infringement in the form of illegally distributed print-scan books in a large database. The framework contains following main stages: image pre-processing, feature vector extraction, clustering, and indexing, and hierarchical search. The image pre-processing stage provides methods for alleviating the distortions induced by a scanner or digital camera. From the pre-processed image, we propose to generate feature vectors that are robust against distortion. To enhance the clustering performance in a large database, we use a clustering method based on the parallel-distributed computing of Hadoop MapReduce. In addition, to store the clustered feature vectors efficiently and minimize the searching time, we investigate an inverted index for feature vectors. Finally, we implement a two-step hierarchical search to achieve fast and accurate on-line identification. In a simulation, the proposed identification framework shows accurate and robust in the presence of print-scan distortions. The processing time analysis in a parallel computing environment gives extensibility of the proposed framework to massive data. In the matching performance analysis, we empirically and theoretically find that in terms of query time, the optimal number of clusters scales with O ( N ) for N print-scan books.
+<div id="abs_kim_blind_2016-1" style="text-align: justify; display: none" markdown="1">
+We explore a no-reference sharpness assessment model for predicting the perceptual sharpness of ultra-highdefinition (UHD) videos through analysis of visual resolution variation in terms of viewing geometry and scene characteristics. The quality and sharpness of UHD videos are influenced by viewer perception of the spatial resolution afforded by the UHD display, which depends on viewing geometry parameters including display resolution, display size, and viewing distance. In addition, viewers may perceive different degrees of quality and sharpness according to the statistical behavior of the visual signals, such as the motion, texture, and edge, which vary over both spatial and temporal domains. The model also accounts for the resolution variation associated with fixation and foveal regions, which is another important factor affecting the sharpness prediction of UHD video over the spatial domain, and which is caused by the nonuniform distribution of the photoreceptors. We calculate the transition of the visually salient statistical characteristics resulting from changing the display's screen size and resolution. Moreover, we calculated the temporal variation in sharpness over consecutive frames in order to evaluate the temporal sharpness perception of UHD video. We verify that the proposed model outperforms other sharpness models in both spatial and temporal sharpness assessments.
 </div>
 
 </td>
@@ -170,30 +170,30 @@ Perceptual crosstalk prediction for autostereoscopic 3D displays is of fundament
 
 
 <tr>
-<th><img src="images/publications/junghwan2015implementation.png"/></th>
-<td>
-    <strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong><br>
-    J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
-    IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015<br>
-    [7]<br>
-
-</td>
-</tr>
-
-
-<tr>
 <th><img src="images/publications/kim_no-reference_2016.png"/></th>
 <td>
     <strong>No-Reference Perceptual Sharpness Assessment for Ultra-High-Definition Images</strong><br>
     W. Kim, H. Kim, H. Oh, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     IEEE International Conference on Image Processing (ICIP) 2016<br>
-    [8]
+    [7]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_no-reference_2016")'>abs</a>]<br>
 
 <div id="abs_kim_no-reference_2016" style="text-align: justify; display: none" markdown="1">
 Since ultra-high-definition (UHD) display has larger resolution and various display size, it is necessary to measure image sharpness considering variation in visual resolution caused by diverse viewing geometry. In this paper, we propose a no-reference perceptual sharpness assessment model of UHD images. The proposed model analyzes viewing geometry in terms of display resolution and viewing environment. Then, we measure the local adaptive sharpness score in accordance with the textural motion blur, texture, and edge. In addition, we propose a spatial pooling method associated with foveal regions, which is caused by nonuniform distribution of the photoreceptors on a human retina. Through the rigorous experiments, we demonstrate that the proposed model can measure the sharpness of UHD images more accurately than other image sharpness assessment methods.
 </div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/junghwan2015implementation.png"/></th>
+<td>
+    <strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong><br>
+    J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
+    IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015<br>
+    [8]<br>
 
 </td>
 </tr>
@@ -362,16 +362,16 @@ I built a web analytics processing engine using **Scala**, **Spark**, **Spray**,
 ## Honors & Awards
 <table class="type04">
 <tr>
-  <th>2016</th>
+  <th>2015 - Present</th>
   <td>
-    Bronze Best Paper Award in IEEE Seoul Section Student Paper Contest 2016
+    Secretary of the IEEE Human Factors for Visual Experiences WG (P3333.1.1/2)
     <!--  -->
   </td>
 </tr>
 <tr>
-  <th>2013</th>
+  <th>2016</th>
   <td>
-    IEEE IVMSP Workshop 2013 Volunteer Award, IEEE Singnal Processing Society
+    Bronze Best Paper Award in IEEE Seoul Section Student Paper Contest 2016
     <!--  -->
   </td>
 </tr>
@@ -383,9 +383,9 @@ I built a web analytics processing engine using **Scala**, **Spark**, **Spray**,
   </td>
 </tr>
 <tr>
-  <th>2015 - Present</th>
+  <th>2013</th>
   <td>
-    Secretary of the IEEE Human Factors for Visual Experiences WG (P3333.1.1/2)
+    IEEE IVMSP Workshop 2013 Volunteer Award, IEEE Singnal Processing Society
     <!--  -->
   </td>
 </tr>
