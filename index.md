@@ -175,7 +175,7 @@ Perceptual crosstalk prediction for autostereoscopic 3D displays is of fundament
 <td>
     <strong>No-Reference Perceptual Sharpness Assessment for Ultra-High-Definition Images</strong><br>
     W. Kim, H. Kim, H. Oh, <strong>Jongyoo Kim</strong>, and S. Lee<br>
-    IEEE International Conference on Image Processing (ICIP) 2016<br>
+    IEEE International Conference on Image Processing (ICIP) 2016
     [7]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_no-reference_2016")'>abs</a>]<br>
@@ -193,8 +193,8 @@ Since ultra-high-definition (UHD) display has larger resolution and various disp
 <td>
     <strong>Human Gait Prediction Method Using Microsoft Kinect</strong><br>
     J. Kim, D. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, and S. Lee<br>
-    International Workshop on Advanced Image Technology (IWAIT) 2016<br>
-    [8]<br>
+    International Workshop on Advanced Image Technology (IWAIT) 2016
+    [8]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_human_2016")'>abs</a>]<br>
 
@@ -212,8 +212,8 @@ Real-time monitoring of elderly movement can provide valuable information regard
 <td>
     <strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong><br>
     J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
-    IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015<br>
-    [9]<br>
+    IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015
+    [9]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_implementation_2015")'>abs</a>]<br>
 
