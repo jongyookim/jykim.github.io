@@ -82,7 +82,7 @@ Since human observers are the ultimate receivers of digital images and videos, q
 <th><img src="images/publications/kim_quality_2017.png"/></th>
 <td>
     <strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong><br>
-    <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. Bovik<br>
+    <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. C. Bovik<br>
     IEEE Transactions on Image Processing 2017 (Accepted)<br>
     [2]
 [<a href='javascript: none'
@@ -195,18 +195,32 @@ Since ultra-high-definition (UHD) display has larger resolution and various disp
     J. Kim, D. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, and S. Lee<br>
     International Workshop on Advanced Image Technology (IWAIT) 2016<br>
     [8]<br>
+[<a href='javascript: none'
+    onclick='toggle("abs_kim_human_2016")'>abs</a>]<br>
+
+<div id="abs_kim_human_2016" style="text-align: justify; display: none" markdown="1">
+Real-time monitoring of elderly movement can provide valuable information regarding an individual's degree of functional rehabilitation. Many laboratory-based studies have described various gait detection systems with different wearable inertial sensors, but only limited number of papers addressed the issues by using some non-wearable sensors. A practical method of gait information detection and gait analysis is proposed in the paper using an inexpensive Microsoft Kinect fixed on the midpoint of lower extremity rehabilitation robot. The horizontal distances between Kinect plane and every mark pasted on lower extremity are acquired. Taken the characteristics of gait distance series into consideration, the Autoregressive Moving Average (ARMA) model is established to reflect the changing rule of gait status. Combined with the Kalman filter, gait information reflecting rehabilitation status at next moment is predicted accurately. The method regarding the gait detection and gait analysis is verified by amounts of gait experiments finally.
+</div>
+
 
 </td>
 </tr>
 
 
 <tr>
-<th><img src="images/publications/junghwan2015implementation.png"/></th>
+<th><img src="images/publications/kim_implementation_2015.png"/></th>
 <td>
     <strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong><br>
     J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015<br>
     [9]<br>
+[<a href='javascript: none'
+    onclick='toggle("abs_kim_implementation_2015")'>abs</a>]<br>
+
+<div id="abs_kim_implementation_2015" style="text-align: justify; display: none" markdown="1">
+Due to ease of implementation for various user interactive applications, much research on motion recognition has been completed using Kinect. However, one drawback of Kinect is that the skeletal information obtained is provided under the assumption that the user faces Kinect. Thus, the skeletal information is likely incorrect when the user turns his back to Kinect, which may lead to difficulty in motion recognition from the application. In this paper, we implement a highly accurate human motion capture system by installing six Kinect sensors over 360 degrees. The proposed method enables skeleton to be obtained more accurately by assigning higher weights to skeletons captured by Kinect in which the user faces forward. Toward this goal, the front vector of the user is temporally traced to determine whether the user is facing Kinect. Then, more reliable joint information is utilized to construct a skeletal representation of each user.
+</div>
+
 
 </td>
 </tr>
@@ -234,7 +248,7 @@ For high bit rate video, it is important to acquire the video contents with high
 <th><img src="images/publications/oh_3d_2015.png"/></th>
 <td>
     <strong>3D Visual Discomfort Predictor Based on Neural Activity Statistics</strong><br>
-    H. Oh, <strong>Jongyoo Kim</strong>, S. Lee, and A. Bovik<br>
+    H. Oh, <strong>Jongyoo Kim</strong>, S. Lee, and A. C. Bovik<br>
     IEEE International Conference on Image Processing (ICIP) 2015<br>
     [11]
 [<a href='javascript: none'
@@ -341,8 +355,69 @@ When each video sequence is captured, an inappropriate camera motion should be o
 </table>
 
 
-## Project Experience
+
+## Selected Project Experience
 <table class="type04">
+
+<tr>
+  <th>Apr 2017 - Present</th>
+  <td>Research on Controlling Human Factors for Generation and Utilization of Safe VR/AR Contents, Institute for Information & Communications Technology Promotion (IITP)</td>
+</tr>
+<tr>
+<td colspan="100%">
+<ul>
+<li markdown="1">
+I developed an algorithm of quality of experience assessment of VR and AR contents based on psychophysical and clinical analysis.
+</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+  <th>Jan 2017 - Present</th>
+  <td>Development of GPU Hardware for Real-time and Realistic Virtual Reality, Institute for Information & Communications Technology Promotion (IITP)</td>
+</tr>
+<tr>
+<td colspan="100%">
+<ul>
+<li markdown="1">
+I developed a perceptual quality assessment algorithm of GPU-rendered images for VR application.
+</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+  <th>Jul 2016 - Present</th>
+  <td>A VR Emotion Study Based on Visual Perception and Artificial Intelligence, National Research Foundation of Korea (NRF)</td>
+</tr>
+<tr>
+<td colspan="100%">
+<ul>
+<li markdown="1">
+I developed a convolutional neural network based no-reference image and stereoscopic 3D image quality assessment algorithm.
+</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+  <th>Jun 2015 - Present</th>
+  <td>Research on Video Coding Scheme by Predicting Quality Processing</td>
+</tr>
+<tr>
+<td colspan="100%">
+<ul>
+<li markdown="1">
+I developed a video quality assessment algorithm to enhance the video coding scheme.
+</li>
+</ul>
+</td>
+</tr>
+
+
 <tr>
   <th>Apr 2014 - Feb 2017</th>
   <td>Research on Human Safety and Contents Quality Assessment for Realistic Broadcasting, Institute for Information & Communications Technology Promotion (IITP)</td>
@@ -351,7 +426,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 <td colspan="100%">
 <ul>
 <li markdown="1">
-The purpose of this project is to provide the watching and production guidelines of 2D and 3D media. The project deals with variety of displays such as wearable, UHD, portable and head-up display. In addition, the perceived quality/discomfort is analyzed in terms of four factors, watching environment, contents characteristics, viewer’s properties and displaying hardware. I and my colleagues analyze the 2D/3D contents to measure the perceived visual discomfort. The objective metric is developed by considering complexity, 3D human factors and so on.
+I developed a visual discomfort prediction method of 3D stereoscopic images and videos.
 </li>
 </ul>
 </td>
@@ -366,7 +441,38 @@ The purpose of this project is to provide the watching and production guidelines
 <td colspan="100%">
 <ul>
 <li markdown="1">
-This project aims to develop an immersive virtual reality system for military training. The system consist of omnidirectional treadmill, sensors for detecting human, and software algorithms for recognizing human motion and controlling the treadmill. Six organizations have participated the project. Especially, Yonsei University takes part of developing algorithms of human joint estimation and gait prediction. My role is to supervise the whole part of Yonsei University. Also, I developed the gait predicting software in C++.
+I developed a real-time human pose estimation system where six Microsoft Kinects and omni-directional treadmill are used.
+In addition, I developed a real-time human action recognition algorithm for virtual interface.
+</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+  <th>Mar 2015 - Feb 2016</th>
+  <td>Identification and Copy Protection Technology of Book-scanned Text/Comic Books</td>
+</tr>
+<tr>
+<td colspan="100%">
+<ul>
+<li markdown="1">
+I developed an efficient algorithm for searching and matching an input comic book from a database.
+</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+  <th>Mar 2015 - Feb 2016</th>
+  <td>Research on Feature Extraction and DB Construction for Image-based Indoor Localization, Electronics and Telecommunications Research Institute (ETRI)</td>
+</tr>
+<tr>
+<td colspan="100%">
+<ul>
+<li markdown="1">
+I developed a SLAM algorithm using stereoscopic video streams.
 </li>
 </ul>
 </td>
@@ -375,14 +481,14 @@ This project aims to develop an immersive virtual reality system for military tr
 
 <tr>
   <th>Feb 2012 - Apr 2014</th>
-  <td>Implementation of Automatic Measure For 3D Quality Enhancement, Samsung Electronics, 
+  <td>Implementation of Automatic Measure For 3D Quality Enhancement, Samsung Electronics
 </td>
 </tr>
 <tr>
 <td colspan="100%">
 <ul>
 <li markdown="1">
-There are many commercial TVs with different sizes. And different intensities of image enhancement methods are preferred by consumers for each different TV. In this project, we developed the quality measuring model considering display resolution to find proper enhancement. We conducted subjective experiments for each display. Then we extract the image features based on human visual system analysis. The objective score is predicted by using support vector regression. I developed the image sharpness features by analyzing DFT spectrum.
+I developed a quality measuring model considering display geometry to find optimal enhancement degree.
 </li>
 </ul>
 </td>
@@ -396,16 +502,16 @@ There are many commercial TVs with different sizes. And different intensities of
 <tr>
   <th>2014 -- Present</th>
   <td>
-    Regular Participation of IEEE Human Factors for Visual Experiences Working Group Meetings (From 13th meeting)
+    Regular Participation of IEEE Human Factors for Visual Experiences Working Group Meetings
     <!--  -->
-  </td>, 
+  </td>
 </tr>
 <tr>
   <th>2015</th>
   <td>
-    IEEE Standard for Quality of Experience (QoE) and Visual-Comfort Assessments of Three-Dimensional (3D) Contents Based on Psychophysical Studies," in IEEE Std 3333.1.1-2015
+    IEEE Standard for Quality of Experience (QoE) and Visual-Comfort Assessments of Three-Dimensional (3D) Contents Based on Psychophysical Studies, in IEEE Std 3333.1.1-2015
     <!--  -->
-  </td>, 
+  </td>
 </tr>
 <tr>
   <th>2015</th>
@@ -417,10 +523,11 @@ There are many commercial TVs with different sizes. And different intensities of
 </table>
 
 
+
 ## Honors & Awards
 <table class="type04">
 <tr>
-  <th>2015 - Present</th>
+  <th>2015 -- Present</th>
   <td>
     Secretary of the IEEE Human Factors for Visual Experiences WG (P3333.1.1/2)
     <!--  -->
@@ -434,7 +541,7 @@ There are many commercial TVs with different sizes. And different intensities of
   </td>
 </tr>
 <tr>
-  <th>2011 - 2015</th>
+  <th>2011 - 2016</th>
   <td>
     Global Ph.D Fellowship, National Research Foundation of Korea
     <!--  -->
@@ -443,7 +550,7 @@ There are many commercial TVs with different sizes. And different intensities of
 <tr>
   <th>2013</th>
   <td>
-    IEEE IVMSP Workshop 2013 Volunteer Award, IEEE Singnal Processing Society
+    IEEE IVMSP Workshop 2013 Volunteer Award, IEEE Signal Processing Society
     <!--  -->
   </td>
 </tr>
