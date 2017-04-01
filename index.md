@@ -188,12 +188,24 @@ Since ultra-high-definition (UHD) display has larger resolution and various disp
 
 
 <tr>
+<th><img src="images/publications/kim_human_2016.png"/></th>
+<td>
+    <strong>Human Gait Prediction Method Using Microsoft Kinect</strong><br>
+    J. Kim, D. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, and S. Lee<br>
+    International Workshop on Advanced Image Technology (IWAIT) 2016<br>
+    [8]<br>
+
+</td>
+</tr>
+
+
+<tr>
 <th><img src="images/publications/junghwan2015implementation.png"/></th>
 <td>
     <strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong><br>
     J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015<br>
-    [8]<br>
+    [9]<br>
 
 </td>
 </tr>
@@ -205,7 +217,7 @@ Since ultra-high-definition (UHD) display has larger resolution and various disp
     <strong>Video Sharpness Prediction Based on Motion Blur Analysis</strong><br>
     <strong>Jongyoo Kim</strong>, J. Kim, W. Kim, J. Lee, and S. Lee<br>
     IEEE International Conference on Multimedia and Expo (ICME) 2015<br>
-    [9]
+    [10]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_video_2015")'>abs</a>]<br>
 
@@ -222,8 +234,8 @@ For high bit rate video, it is important to acquire the video contents with high
 <td>
     <strong>3D Visual Discomfort Predictor Based on Neural Activity Statistics</strong><br>
     H. Oh, <strong>Jongyoo Kim</strong>, S. Lee, and A. Bovik<br>
-    2015 IEEE International Conference on Image Processing (ICIP) 2015<br>
-    [10]
+    IEEE International Conference on Image Processing (ICIP) 2015<br>
+    [11]
 [<a href='javascript: none'
     onclick='toggle("abs_oh_3d_2015")'>abs</a>]<br>
 
@@ -241,7 +253,7 @@ Visual discomfort assessment (VDA) on stereoscopic images is of fundamental impo
     <strong>Implementation of Human Action Recognition System Using Multiple Kinect Sensors</strong><br>
     B. Kwon, D. Kim, J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, H. Kim, and S. Lee<br>
     Advances in Multimedia Information Processing - PCM 2015<br>
-    [11]
+    [12]
 [<a href='javascript: none'
     onclick='toggle("abs_kwon_implementation_2015")'>abs</a>]<br>
 
@@ -258,8 +270,8 @@ Human action recognition is an important research topic that has many potential 
 <td>
     <strong>Quality Assessment of Perceptual Crosstalk in Autostereoscopic Display</strong><br>
     <strong>Jongyoo Kim</strong>, T. Kim, and S. Lee<br>
-    2014 IEEE International Conference on Image Processing (ICIP) 2014<br>
-    [12]
+    IEEE International Conference on Image Processing (ICIP) 2014<br>
+    [13]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_quality_2014")'>abs</a>]<br>
 
@@ -276,26 +288,14 @@ Crosstalk is one of the most annoying problems in an autostereoscopic display ca
 <td>
     <strong>Ego Motion Induced Visual Discomfort of Stereoscopic Video</strong><br>
     <strong>Jongyoo Kim</strong>, K. Oh, and S. Lee<br>
-    2013 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2013<br>
-    [13]
+    Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2013<br>
+    [14]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_ego_2013")'>abs</a>]<br>
 
 <div id="abs_kim_ego_2013" style="text-align: justify; display: none" markdown="1">
 When each video sequence is captured, an inappropriate camera motion should be one of crucial factors leading to visual discomfort and distortion. The well known symptom, visually induced motion sickness (VIMS) is caused by the illusion of self motion by perceiving the video with ego motion. In particular, for the stereoscopic 3D video, it can be easily observed that the viewers have dominantly feel much more severe symptoms of visual discomfort. In this paper, we analyze the ego motion of the stereoscopic video and predict the effects. We attempt a novel approach by exploiting the computer vision algorithm. We propose a novel method which can estimate the perceptual 3D ego motion from the stereoscopic video. Then we analyze the ego motion components to predict the visual discomfort of stereoscopic video.
 </div>
-
-</td>
-</tr>
-
-
-<tr>
-<th><img src="images/publications/kim_human_2016.png"/></th>
-<td>
-    <strong>Human Gait Prediction Method Using Microsoft Kinect</strong><br>
-    J. Kim, D. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, and S. Lee<br>
-    International Workshop on Advanced Image Technology (IWAIT) 2016<br>
-    [14]<br>
 
 </td>
 </tr>
