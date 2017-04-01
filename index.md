@@ -39,18 +39,18 @@ Email: jongky@yonsei.ac.kr
   <tr>
     <th>Mar 2011 - Present</th>
     <td>
-        <strong>Ph.D. in Electrical and Electronic Eng. (4.03/4.30)</strong><br>
+        <strong>Ph.D. in Electrical and Electronic Eng.</strong> (4.03/4.30)<br>
         supervised by Prof. Sanghoon Lee
         <br>
-      Yonsei University
+      Yonsei University, Seoul, Korea
     </td>
   </tr>
   <tr>
     <th>Mar 2007 - Feb 2011</th>
     <td>
-        <strong>B.S. in Electrical and Electronic Eng. (3.67/4.30)</strong>
+        <strong>B.S. in Electrical and Electronic Eng.</strong> (3.67/4.30)
         <br>
-      Yonsei University
+      Yonsei University, Seoul, Korea
     </td>
   </tr>
 </table>
