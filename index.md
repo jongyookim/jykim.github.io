@@ -65,7 +65,7 @@ Email: jongky@yonsei.ac.kr
     <strong>Deep Learning of Human Visual Sensitivity in FR-IQA Framework</strong><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017<br>
-    [3]
+    [1]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_deep_2017")'>abs</a>]<br>
 
@@ -83,7 +83,7 @@ Since human observers are the ultimate receivers of digital images and videos, q
     <strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong><br>
     <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. Bovik<br>
     IEEE Transactions on Image Processing 2017 (Accepted)<br>
-    [4]
+    [2]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_quality_2017")'>abs</a>]<br>
 
@@ -101,7 +101,7 @@ Crosstalk is one of the most severe factors affecting the perceived quality of s
     <strong>Fully Deep Blind Image Quality Predictor</strong><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     IEEE Journal of Selected Topics in Signal Processing 2016<br>
-    [1]
+    [3]
 <!--[<a href='javascript: none'
     onclick='toggle("abs_kim_fully_2016")'>abs</a>]<br>-->
 [<a href='javascript: none'
@@ -121,7 +121,7 @@ In general, owing to the benefits obtained from original information, full-refer
     <strong>Blind Sharpness Prediction for Ultra-High-Definition Video Based on Human Visual Resolution</strong><br>
     H. Kim, <strong>Jongyoo Kim</strong>, T. Oh, and S. Lee<br>
     IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
-    [2]
+    [4]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_blind_2016-1")'>abs</a>]<br>
 
