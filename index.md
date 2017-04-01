@@ -39,7 +39,8 @@ Email: jongky@yonsei.ac.kr
   <tr>
     <th>Mar 2011 - Present</th>
     <td>
-        <strong>Ph.D. in Electrical and Electronic Eng.</strong>
+        <strong>Ph.D. in Electrical and Electronic Eng. (4.03/4.30)</strong><br>
+        supervised by Prof. Sanghoon Lee
         <br>
       Yonsei University
     </td>
@@ -47,7 +48,7 @@ Email: jongky@yonsei.ac.kr
   <tr>
     <th>Mar 2007 - Feb 2011</th>
     <td>
-        <strong>B.S. in Electrical and Electronic Eng.</strong>
+        <strong>B.S. in Electrical and Electronic Eng. (3.67/4.30)</strong>
         <br>
       Yonsei University
     </td>
@@ -340,23 +341,80 @@ When each video sequence is captured, an inappropriate camera motion should be o
 </table>
 
 
-<!--## Industry Experience
+## Project Experience
 <table class="type04">
 <tr>
-  <th>May 2014 - Aug 2014</th>
-  <td><strong>Adobe Research</strong>, Data Scientist Intern</td>
+  <th>Apr 2014 - Feb 2017</th>
+  <td>Research on Human Safety and Contents Quality Assessment for Realistic Broadcasting, Institute for Information & Communications Technology Promotion (IITP)</td>
 </tr>
 <tr>
 <td colspan="100%">
 <ul>
 <li markdown="1">
-I built a web analytics processing engine using **Scala**, **Spark**, **Spray**, **Parquet**, and **HDFS**.
+The purpose of this project is to provide the watching and production guidelines of 2D and 3D media. The project deals with variety of displays such as wearable, UHD, portable and head-up display. In addition, the perceived quality/discomfort is analyzed in terms of four factors, watching environment, contents characteristics, viewer’s properties and displaying hardware. I and my colleagues analyze the 2D/3D contents to measure the perceived visual discomfort. The objective metric is developed by considering complexity, 3D human factors and so on.
 </li>
 </ul>
 </td>
 </tr>
-</table>-->
 
+
+<tr>
+  <th>May 2013 - Feb 2017</th>
+  <td>Development of ODM-interactive Software Technology supporting Live-Virtual Soldier Exercises, Institute for Information & Communications Technology Promotion (IITP)</td>
+</tr>
+<tr>
+<td colspan="100%">
+<ul>
+<li markdown="1">
+This project aims to develop an immersive virtual reality system for military training. The system consist of omnidirectional treadmill, sensors for detecting human, and software algorithms for recognizing human motion and controlling the treadmill. Six organizations have participated the project. Especially, Yonsei University takes part of developing algorithms of human joint estimation and gait prediction. My role is to supervise the whole part of Yonsei University. Also, I developed the gait predicting software in C++.
+</li>
+</ul>
+</td>
+</tr>
+
+
+<tr>
+  <th>Feb 2012 - Apr 2014</th>
+  <td>Implementation of Automatic Measure For 3D Quality Enhancement, Samsung Electronics, 
+</td>
+</tr>
+<tr>
+<td colspan="100%">
+<ul>
+<li markdown="1">
+There are many commercial TVs with different sizes. And different intensities of image enhancement methods are preferred by consumers for each different TV. In this project, we developed the quality measuring model considering display resolution to find proper enhancement. We conducted subjective experiments for each display. Then we extract the image features based on human visual system analysis. The objective score is predicted by using support vector regression. I developed the image sharpness features by analyzing DFT spectrum.
+</li>
+</ul>
+</td>
+</tr>
+
+</table>
+
+
+## Tech Reports & Standardization Documents
+<table class="type04">
+<tr>
+  <th>2014 -- Present</th>
+  <td>
+    Regular Participation of IEEE Human Factors for Visual Experiences Working Group Meetings (From 13th meeting)
+    <!--  -->
+  </td>, 
+</tr>
+<tr>
+  <th>2015</th>
+  <td>
+    IEEE Standard for Quality of Experience (QoE) and Visual-Comfort Assessments of Three-Dimensional (3D) Contents Based on Psychophysical Studies," in IEEE Std 3333.1.1-2015
+    <!--  -->
+  </td>, 
+</tr>
+<tr>
+  <th>2015</th>
+  <td>
+    3DTV Broadcasting Safety Guideline, 2015PG802-042, TTA
+    <!--  -->
+  </td>
+</tr>
+</table>
 
 
 ## Honors & Awards
