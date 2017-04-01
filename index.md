@@ -60,6 +60,42 @@ Email: jongky@yonsei.ac.kr
 <table class="type04">
 
 <tr>
+<th><img src="images/publications/kim_deep_2017.png"/></th>
+<td>
+    <strong>Deep Learning of Human Visual Sensitivity in FR-IQA Framework</strong><br>
+    <strong>Jongyoo Kim</strong> and S. Lee<br>
+    IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017<br>
+    [3]
+[<a href='javascript: none'
+    onclick='toggle("abs_kim_deep_2017")'>abs</a>]<br>
+
+<div id="abs_kim_deep_2017" style="text-align: justify; display: none" markdown="1">
+Since human observers are the ultimate receivers of digital images and videos, quality metrics should be designed from a human-oriented perspective. Conventionally, a number of full-reference image quality assessment (FR-IQA) methods adopted various computational models of the human visual system (HVS) from psychological vision science research. In this paper, we propose a novel convolutional neural networks (CNN) based FR-IQA metric, named deep image quality assessment (DeepQA), where the behavior of the HVS is learned from the underlying data distribution of an IQA database. Different from previous studies, our model seeks the optimal visual weight based on understanding of database information itself without any prior knowledge of the HVS. Through the experiments, we show that the predicted visual sensitivity maps agree with the human subjective opinions. In addition, DeepQA achieves the stat-of-the-art prediction accuracy among the FR-IQA metrics.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<th><img src="images/publications/kim_quality_2017.png"/></th>
+<td>
+    <strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong><br>
+    <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. Bovik<br>
+    IEEE Transactions on Image Processing 2017 (Accepted)<br>
+    [4]
+[<a href='javascript: none'
+    onclick='toggle("abs_kim_quality_2017")'>abs</a>]<br>
+
+<div id="abs_kim_quality_2017" style="text-align: justify; display: none" markdown="1">
+Crosstalk is one of the most severe factors affecting the perceived quality of stereoscopic 3D (S3D) images.It arises from a leakage of light intensity between multiple views, as in auto-stereoscopic displays. Well-known determinants of crosstalk include the co-location contrast and disparity of the left and right images, which have been dealt with in prior studies. However, when a natural stereo image that contains complex naturalistic spatial characteristics is viewed on an auto-stereoscopic display, other factors may also play an important role in the perception of crosstalk. Here, we describe a new way of predicting the perceived severity of crosstalk, which we call the Binocular Perceptual Crosstalk Predictor (BPCP). BPCP uses measurements of three complementary 3D image properties (texture, structural duplication and binocular summation) in combination with two well-known factors (co-location contrast and disparity) to make predictions of crosstalk on two-view auto-stereoscopic displays. The new BPCP model includes two masking algorithms and a binocular pooling method. We explore a new masking phenomenon that we call duplicated structure masking, which arises from structural correlations between the original and distorted objects. We also utilize an advanced binocular summation model to develop a binocular pooling algorithm. Our experimental results indicate that BPCP achieves high correlations against subjective test results, improving upon those delivered by previous crosstalk prediction models.
+</div>
+
+</td>
+</tr>
+
+
+<tr>
 <th><img src="images/publications/kim_fully_2016.png"/></th>
 <td>
     <strong>Fully Deep Blind Image Quality Predictor</strong><br>
@@ -91,42 +127,6 @@ In general, owing to the benefits obtained from original information, full-refer
 
 <div id="abs_kim_blind_2016-1" style="text-align: justify; display: none" markdown="1">
 We explore a no-reference sharpness assessment model for predicting the perceptual sharpness of ultra-highdefinition (UHD) videos through analysis of visual resolution variation in terms of viewing geometry and scene characteristics. The quality and sharpness of UHD videos are influenced by viewer perception of the spatial resolution afforded by the UHD display, which depends on viewing geometry parameters including display resolution, display size, and viewing distance. In addition, viewers may perceive different degrees of quality and sharpness according to the statistical behavior of the visual signals, such as the motion, texture, and edge, which vary over both spatial and temporal domains. The model also accounts for the resolution variation associated with fixation and foveal regions, which is another important factor affecting the sharpness prediction of UHD video over the spatial domain, and which is caused by the nonuniform distribution of the photoreceptors. We calculate the transition of the visually salient statistical characteristics resulting from changing the display's screen size and resolution. Moreover, we calculated the temporal variation in sharpness over consecutive frames in order to evaluate the temporal sharpness perception of UHD video. We verify that the proposed model outperforms other sharpness models in both spatial and temporal sharpness assessments.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<th><img src="images/publications/kim_deep_2017.png"/></th>
-<td>
-    <strong>Deep Learning of Human Visual Sensitivity in FR-IQA Framework</strong><br>
-    <strong>Jongyoo Kim</strong> and S. Lee<br>
-    IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017<br>
-    [3]
-[<a href='javascript: none'
-    onclick='toggle("abs_kim_deep_2017")'>abs</a>]<br>
-
-<div id="abs_kim_deep_2017" style="text-align: justify; display: none" markdown="1">
-Since human observers are the ultimate receivers of digital images and videos, quality metrics should be designed from a human-oriented perspective. Conventionally, a number of full-reference image quality assessment (FR-IQA) methods adopted various computational models of the human visual system (HVS) from psychological vision science research. In this paper, we propose a novel convolutional neural networks (CNN) based FR-IQA metric, named deep image quality assessment (DeepQA), where the behavior of the HVS is learned from the underlying data distribution of an IQA database. Different from previous studies, our model seeks the optimal visual weight based on understanding of database information itself without any prior knowledge of the HVS. Through the experiments, we show that the predicted visual sensitivity maps agree with the human subjective opinions. In addition, DeepQA achieves the stat-of-the-art prediction accuracy among the FR-IQA metrics.
-</div>
-
-</td>
-</tr>
-
-
-<tr>
-<th><img src="images/publications/kim_quality_2017.png"/></th>
-<td>
-    <strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong><br>
-    <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. Bovik<br>
-    IEEE Transactions on Image Processing 2017<br>
-    [4]
-[<a href='javascript: none'
-    onclick='toggle("abs_kim_quality_2017")'>abs</a>]<br>
-
-<div id="abs_kim_quality_2017" style="text-align: justify; display: none" markdown="1">
-Crosstalk is one of the most severe factors affecting the perceived quality of stereoscopic 3D (S3D) images.It arises from a leakage of light intensity between multiple views, as in auto-stereoscopic displays. Well-known determinants of crosstalk include the co-location contrast and disparity of the left and right images, which have been dealt with in prior studies. However, when a natural stereo image that contains complex naturalistic spatial characteristics is viewed on an auto-stereoscopic display, other factors may also play an important role in the perception of crosstalk. Here, we describe a new way of predicting the perceived severity of crosstalk, which we call the Binocular Perceptual Crosstalk Predictor (BPCP). BPCP uses measurements of three complementary 3D image properties (texture, structural duplication and binocular summation) in combination with two well-known factors (co-location contrast and disparity) to make predictions of crosstalk on two-view auto-stereoscopic displays. The new BPCP model includes two masking algorithms and a binocular pooling method. We explore a new masking phenomenon that we call duplicated structure masking, which arises from structural correlations between the original and distorted objects. We also utilize an advanced binocular summation model to develop a binocular pooling algorithm. Our experimental results indicate that BPCP achieves high correlations against subjective test results, improving upon those delivered by previous crosstalk prediction models.
 </div>
 
 </td>
@@ -203,7 +203,7 @@ Since ultra-high-definition (UHD) display has larger resolution and various disp
 <th><img src="images/publications/kim_video_2015.png"/></th>
 <td>
     <strong>Video Sharpness Prediction Based on Motion Blur Analysis</strong><br>
-    J. Kim, <strong>Jongyoo Kim</strong>, W. Kim, J. Lee, and S. Lee<br>
+    <strong>Jongyoo Kim</strong>, J. Kim, W. Kim, J. Lee, and S. Lee<br>
     IEEE International Conference on Multimedia and Expo (ICME) 2015<br>
     [9]
 [<a href='javascript: none'
