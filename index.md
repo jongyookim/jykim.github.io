@@ -126,7 +126,7 @@ Crosstalk is one of the most severe factors affecting the perceived quality of s
 <td>
     <span class="pub_title"><strong>Fully Deep Blind Image Quality Predictor</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
-    IEEE Journal of Selected Topics in Signal Processing 2016<br>
+    IEEE Journal of Selected Topics in Signal Processing 2017<br>
     [3]
 <!--[<a href='javascript: none'
     onclick='toggle("abs_kim_fully_2016")'>abs</a>]<br>-->
@@ -430,7 +430,7 @@ I developed a convolutional neural network based no-reference image and stereosc
 
 <tr>
   <th>Jun 2015 - Present</th>
-  <td>Research on Video Coding Scheme by Predicting Quality Processing</td>
+  <td>Research on Video Coding Scheme by Predicting Quality Processing, Samsung Electronics</td>
 </tr>
 <tr>
 <td colspan="100%">
@@ -476,7 +476,7 @@ In addition, I developed a real-time human action recognition algorithm for virt
 
 <tr>
   <th>Mar 2015 - Feb 2016</th>
-  <td>Identification and Copy Protection Technology of Book-scanned Text/Comic Books</td>
+  <td>Identification and Copy Protection Technology of Book-scanned Text/Comic Books, Korea Copyright Commission</td>
 </tr>
 <tr>
 <td colspan="100%">
