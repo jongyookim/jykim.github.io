@@ -108,7 +108,7 @@ Since human observers are the ultimate receivers of digital images and videos, q
 <td>
     <span class="pub_title"><strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong></span><br>
     <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. C. Bovik<br>
-    IEEE Transactions on Image Processing 2017 (Accepted)<br>
+    IEEE Transactions on Image Processing (Accepted)<br>
     [2]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_quality_2017")'>abs</a>]<br>
@@ -385,7 +385,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 <table class="type04">
 
 <tr>
-  <th>Apr 2017 - Present</th>
+  <th>Apr 2017 -- Present</th>
   <td>Research on Controlling Human Factors for Generation and Utilization of Safe VR/AR Contents, Institute for Information & Communications Technology Promotion (IITP)</td>
 </tr>
 <tr>
@@ -399,7 +399,7 @@ I developed an algorithm of quality of experience assessment of VR and AR conten
 </tr>
 
 <tr>
-  <th>Jan 2017 - Present</th>
+  <th>Jan 2017 -- Present</th>
   <td>Development of GPU Hardware for Real-time and Realistic Virtual Reality, Institute for Information & Communications Technology Promotion (IITP)</td>
 </tr>
 <tr>
@@ -414,7 +414,7 @@ I developed a perceptual quality assessment algorithm of GPU-rendered images for
 
 
 <tr>
-  <th>Jul 2016 - Present</th>
+  <th>Jul 2016 -- Present</th>
   <td>A VR Emotion Study Based on Visual Perception and Artificial Intelligence, National Research Foundation of Korea (NRF)</td>
 </tr>
 <tr>
@@ -429,7 +429,7 @@ I developed a convolutional neural network based no-reference image and stereosc
 
 
 <tr>
-  <th>Jun 2015 - Present</th>
+  <th>Jun 2015 -- Present</th>
   <td>Research on Video Coding Scheme by Predicting Quality Processing, Samsung Electronics</td>
 </tr>
 <tr>
@@ -444,7 +444,7 @@ I developed a video quality assessment algorithm to enhance the video coding sch
 
 
 <tr>
-  <th>Apr 2014 - Feb 2017</th>
+  <th>Apr 2014 -- Feb 2017</th>
   <td>Research on Human Safety and Contents Quality Assessment for Realistic Broadcasting, Institute for Information & Communications Technology Promotion (IITP)</td>
 </tr>
 <tr>
@@ -459,7 +459,7 @@ I developed a visual discomfort prediction method of 3D stereoscopic images and 
 
 
 <tr>
-  <th>May 2013 - Feb 2017</th>
+  <th>May 2013 -- Feb 2017</th>
   <td>Development of ODM-interactive Software Technology supporting Live-Virtual Soldier Exercises, Institute for Information & Communications Technology Promotion (IITP)</td>
 </tr>
 <tr>
@@ -475,7 +475,7 @@ In addition, I developed a real-time human action recognition algorithm for virt
 
 
 <tr>
-  <th>Mar 2015 - Feb 2016</th>
+  <th>Mar 2015 -- Feb 2016</th>
   <td>Identification and Copy Protection Technology of Book-scanned Text/Comic Books, Korea Copyright Commission</td>
 </tr>
 <tr>
@@ -490,7 +490,7 @@ I developed an efficient algorithm for searching and matching an input comic boo
 
 
 <tr>
-  <th>Mar 2015 - Feb 2016</th>
+  <th>Mar 2015 -- Feb 2016</th>
   <td>Research on Feature Extraction and DB Construction for Image-based Indoor Localization, Electronics and Telecommunications Research Institute (ETRI)</td>
 </tr>
 <tr>
@@ -505,7 +505,7 @@ I developed a SLAM algorithm using stereoscopic video streams.
 
 
 <tr>
-  <th>Feb 2012 - Apr 2014</th>
+  <th>Feb 2012 -- Apr 2014</th>
   <td>Implementation of Automatic Measure For 3D Quality Enhancement, Samsung Electronics
 </td>
 </tr>
@@ -566,7 +566,7 @@ I developed a quality measuring model considering display geometry to find optim
   </td>
 </tr>
 <tr>
-  <th>2011 - 2016</th>
+  <th>2011 -- 2016</th>
   <td>
     Global Ph.D Fellowship, National Research Foundation of Korea
     <!--  -->
