@@ -39,6 +39,23 @@ a:hover {
 }
 
 
+table.cv{
+  border-collapse: separate;
+  border-spacing: 1px;
+  text-align: center;
+  line-height: 1.5;
+  /*border-top: 1px solid #ccc;*/
+  font-size:    100%;
+  /*font-weight: bold;*/
+  /*margin : 20px 20px;*/
+}
+table.type04 th, td {
+  padding: 15px;
+  font-weight: normal;
+  /*vertical-align: top;*/
+  /*border-bottom: 1px solid #ccc;*/
+}
+
 table.type04 {
   border-collapse: separate;
   border-spacing: 1px;
@@ -61,10 +78,6 @@ table.type04 td {
   border-bottom: 1px solid #ccc;
 }
 
-.hidden {
-  display: none;
-}
-
 div.post_meta {
 	display: block;
 	width: 133px;
@@ -73,3 +86,9 @@ div.post_meta {
 	padding: 0;
 	margin: 0;
 }
+
+.pub_title {
+  color: #3E85E8;
+}
+
+
