@@ -340,7 +340,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 </table>
 
 
-## Industry Experience
+<!--## Industry Experience
 <table class="type04">
 <tr>
   <th>May 2014 - Aug 2014</th>
@@ -355,7 +355,7 @@ I built a web analytics processing engine using **Scala**, **Spark**, **Spray**,
 </ul>
 </td>
 </tr>
-</table>
+</table>-->
 
 
 
