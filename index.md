@@ -18,7 +18,7 @@ layout: default
     <td>
       <img src="jongyoo2.png" alt="Drawing" style="
       height: 240px;
-      border: 3px solid gray;
+      border: 5px solid #ccc;
       border-radius: 10px;
       -moz-border-radius: 10px;
       -khtml-border-radius: 10px;
@@ -463,7 +463,7 @@ Windows, OSX
 
 
 
-<h2>Project Experience
+<h2>Selected Project Experience
 <a href='javascript: none' onclick='toggle("proj_exp")'><font size="3">[+]</font></a><br>
 </h2>
 <div id="proj_exp" style="display: none" markdown="1">

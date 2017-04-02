@@ -17,10 +17,8 @@ a:hover {
 }
 
 
-
-
 #header {
-  padding: 4px;
+  padding: 15px;
 }
 
 #header .big {
@@ -39,6 +37,27 @@ a:hover {
 }
 
 
+#layer_fixed {
+  height:40px;
+  width:100%;
+  color: #555;
+  font-size:12px;
+  position:fixed;
+  z-index:999;
+  top:0px;
+  left:0px;
+  /*-webkit-box-shadow: 0 1px 2px 0 #777;*/
+  /*box-shadow: 0 1px 2px 0 #777;*/
+  background-color:#ccc;
+}
+
+#layer_fixed .big {
+  font-size:   140%;
+  font-weight: bold;
+}
+
+
+
 table.cv{
   border-collapse: separate;
   border-spacing: 1px;
@@ -49,12 +68,13 @@ table.cv{
   /*font-weight: bold;*/
   /*margin : 20px 20px;*/
 }
-table.type04 th, td {
+table.cv th, td {
   padding: 15px;
   font-weight: normal;
   /*vertical-align: top;*/
   /*border-bottom: 1px solid #ccc;*/
 }
+
 
 table.type04 {
   border-collapse: separate;
