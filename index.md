@@ -87,7 +87,7 @@ Email: jongky@yonsei.ac.kr-->
 <table class="type04">
 
 <tr>
-<th><img src="images/publications/kim_deep_2017.png"/></th>
+<!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Deep Learning of Human Visual Sensitivity in FR-IQA Framework</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
