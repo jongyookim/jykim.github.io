@@ -41,7 +41,7 @@ Email: jongky@yonsei.ac.kr-->
 
 ## Research Interest
 - Perceptual Image and Video Quality Assessment
-- Quality of Experience Assessment of 2D/3D Images and Videos
+- Quality of Experience Assessment of 2D/3D/VR Images and Videos
 - Visual Discomfort Assessment of 3D Stereoscopic and VR Contents
 - Deep Learning and Convolutional Neural Networks
 - Human Action Recognition

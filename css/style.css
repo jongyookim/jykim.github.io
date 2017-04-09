@@ -24,11 +24,12 @@ a:hover {
 #header .big {
   font-size:   140%;
   font-weight: bold;
+  color:        white;
 }
 
 #header .small {
   font-size:    90%;
-  color:        grey;
+  color:        #aaa;
   padding-left: 15px;
 }
 
@@ -40,15 +41,15 @@ a:hover {
 #layer_fixed {
   height:40px;
   width:100%;
-  color: #555;
+  color: #000;
   font-size:12px;
   position:fixed;
   z-index:999;
   top:0px;
   left:0px;
-  -webkit-box-shadow: 0 1px 2px 0 #777;
+  /*-webkit-box-shadow: 0 1px 2px 0 #777;
   box-shadow: 0 1px 2px 0 #777;
-  background-color:#ccc;
+  background-color:#ccc;*/
 }
 
 #layer_fixed .big {
