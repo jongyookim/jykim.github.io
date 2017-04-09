@@ -383,13 +383,6 @@ When each video sequence is captured, an inappropriate camera motion should be o
 ## Tech Reports & Standardization Documents
 <table class="type04">
 <tr>
-  <th>2014 -- Present</th>
-  <td>
-    Regular Participation of IEEE Human Factors for Visual Experiences Working Group Meetings
-    <!--  -->
-  </td>
-</tr>
-<tr>
   <th>2015</th>
   <td>
     IEEE Standard for Quality of Experience (QoE) and Visual-Comfort Assessments of Three-Dimensional (3D) Contents Based on Psychophysical Studies, in IEEE Std 3333.1.1-2015
@@ -409,54 +402,44 @@ When each video sequence is captured, an inappropriate camera motion should be o
 ## Honors & Awards
 <table class="type04">
 <tr>
-  <th>2015 -- Present</th>
+  <th>2015 - Present</th>
   <td>
     Secretary of the IEEE Human Factors for Visual Experiences WG (P3333.1.1/2)
-    <!--  -->
   </td>
 </tr>
 <tr>
   <th>2016</th>
   <td>
     Bronze Best Paper Award in IEEE Seoul Section Student Paper Contest 2016
-    <!--  -->
   </td>
 </tr>
 <tr>
-  <th>2011 -- 2016</th>
+  <th>2011 - 2016</th>
   <td>
     Global Ph.D Fellowship, National Research Foundation of Korea
-    <!--  -->
   </td>
 </tr>
 <tr>
   <th>2013</th>
   <td>
     IEEE IVMSP Workshop 2013 Volunteer Award, IEEE Signal Processing Society
-    <!--  -->
   </td>
 </tr>
 </table>
 
 
-## Skills
+## Software Engineering Skills
 <table class="type04">
 <tr>
   <th>Languages</th>
   <td markdown="1">
-C, C++, Java, Mathematica, Matlab, Python, LaTeX
+C, C++, Java, Mathematica, Matlab, Python
   </td>
 </tr>
 <tr>
   <th>Frameworks</th>
   <td markdown="1">
 Theano, TensorFlow, Android SDK/NDK, NumPy, OpenCV
-  </td>
-</tr>
-<tr>
-  <th>Systems</th>
-  <td markdown="1">
-Windows, OSX
   </td>
 </tr>
 </table>
