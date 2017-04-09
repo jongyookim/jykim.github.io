@@ -13,7 +13,8 @@ layout: default
       <a href="http://ee.yonsei.ac.kr/">Dept. of Electrical and Electronic Engineering</a><br>
       <a href="http://yonsei.ac.kr/">Yonsei University</a><br>
       Tel.: +82-2-2123-7734<br>
-      Email: jongky@yonsei.ac.kr
+      Email: jongky@yonsei.ac.kr<br>
+      <a href="http://jongyookim.github.io/data/cv_jongyoo.pdf">[CV]</a><br>
     </td>
     <td>
       <img src="jongyoo2.png" alt="Drawing" style="
