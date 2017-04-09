@@ -84,7 +84,7 @@ Email: jongky@yonsei.ac.kr-->
 
 ## Publications
 
-<table class="type04">
+<table class="type05">
 
 <tr>
 <!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
@@ -105,7 +105,7 @@ Since human observers are the ultimate receivers of digital images and videos, q
 
 
 <tr>
-<th><img src="images/publications/kim_quality_2017.png"/></th>
+<!--<th><img src="images/publications/kim_quality_2017.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong></span><br>
     <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. C. Bovik<br>
@@ -123,7 +123,7 @@ Crosstalk is one of the most severe factors affecting the perceived quality of s
 
 
 <tr>
-<th><img src="images/publications/kim_fully_2016.png"/></th>
+<!--<th><img src="images/publications/kim_fully_2016.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Fully Deep Blind Image Quality Predictor</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
@@ -143,7 +143,7 @@ In general, owing to the benefits obtained from original information, full-refer
 
 
 <tr>
-<th><img src="images/publications/lee_identification_2017.png"/></th>
+<!--<th><img src="images/publications/lee_identification_2017.png"/></th>-->
 <td>
     <span class="pub_title"><strong>An Identification Framework for Print-Scan Books in a Large Database</strong></span><br>
     S. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
@@ -161,7 +161,7 @@ In this paper, we propose an identification framework to determine copyright inf
 
 
 <tr>
-<th><img src="images/publications/kim_blind_2016-1.png"/></th>
+<!--<th><img src="images/publications/kim_blind_2016-1.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Blind Sharpness Prediction for Ultra-High-Definition Video Based on Human Visual Resolution</strong></span><br>
     H. Kim, <strong>Jongyoo Kim</strong>, T. Oh, and S. Lee<br>
@@ -179,7 +179,7 @@ We explore a no-reference sharpness assessment model for predicting the perceptu
 
 
 <tr>
-<th><img src="images/publications/kim_perceptual_2016.png"/></th>
+<!--<th><img src="images/publications/kim_perceptual_2016.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Perceptual Crosstalk Prediction on Autostereoscopic 3D Display</strong></span><br>
     T. Kim, <strong>Jongyoo Kim</strong>, S. Kim, S. Cho, and S. Lee<br>
@@ -197,7 +197,7 @@ Perceptual crosstalk prediction for autostereoscopic 3D displays is of fundament
 
 
 <tr>
-<th><img src="images/publications/kim_no-reference_2016.png"/></th>
+<!--<th><img src="images/publications/kim_no-reference_2016.png"/></th>-->
 <td>
     <span class="pub_title"><strong>No-Reference Perceptual Sharpness Assessment for Ultra-High-Definition Images</strong></span><br>
     W. Kim, H. Kim, H. Oh, <strong>Jongyoo Kim</strong>, and S. Lee<br>
@@ -215,7 +215,7 @@ Since ultra-high-definition (UHD) display has larger resolution and various disp
 
 
 <tr>
-<th><img src="images/publications/kim_human_2016.png"/></th>
+<!--<th><img src="images/publications/kim_human_2016.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Human Gait Prediction Method Using Microsoft Kinect</strong></span><br>
     J. Kim, D. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, and S. Lee<br>
@@ -234,7 +234,7 @@ Real-time monitoring of elderly movement can provide valuable information regard
 
 
 <tr>
-<th><img src="images/publications/kim_implementation_2015.png"/></th>
+<!--<th><img src="images/publications/kim_implementation_2015.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong></span><br>
     J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
@@ -253,7 +253,7 @@ Due to ease of implementation for various user interactive applications, much re
 
 
 <tr>
-<th><img src="images/publications/kim_video_2015.png"/></th>
+<!--<th><img src="images/publications/kim_video_2015.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Video Sharpness Prediction Based on Motion Blur Analysis</strong></span><br>
     <strong>Jongyoo Kim</strong>, J. Kim, W. Kim, J. Lee, and S. Lee<br>
@@ -271,7 +271,7 @@ For high bit rate video, it is important to acquire the video contents with high
 
 
 <tr>
-<th><img src="images/publications/oh_3d_2015.png"/></th>
+<!--<th><img src="images/publications/oh_3d_2015.png"/></th>-->
 <td>
     <span class="pub_title"><strong>3D Visual Discomfort Predictor Based on Neural Activity Statistics</strong></span><br>
     H. Oh, <strong>Jongyoo Kim</strong>, S. Lee, and A. C. Bovik<br>
@@ -289,7 +289,7 @@ Visual discomfort assessment (VDA) on stereoscopic images is of fundamental impo
 
 
 <tr>
-<th><img src="images/publications/kwon_implementation_2015.png"/></th>
+<!--<th><img src="images/publications/kwon_implementation_2015.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Implementation of Human Action Recognition System Using Multiple Kinect Sensors</strong></span><br>
     B. Kwon, D. Kim, J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, H. Kim, and S. Lee<br>
@@ -307,7 +307,7 @@ Human action recognition is an important research topic that has many potential 
 
 
 <tr>
-<th><img src="images/publications/kim_quality_2014.png"/></th>
+<!--<th><img src="images/publications/kim_quality_2014.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Quality Assessment of Perceptual Crosstalk in Autostereoscopic Display</strong></span><br>
     <strong>Jongyoo Kim</strong>, T. Kim, and S. Lee<br>
@@ -325,7 +325,7 @@ Crosstalk is one of the most annoying problems in an autostereoscopic display ca
 
 
 <tr>
-<th><img src="images/publications/kim_ego_2013.png"/></th>
+<!--<th><img src="images/publications/kim_ego_2013.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Ego Motion Induced Visual Discomfort of Stereoscopic Video</strong></span><br>
     <strong>Jongyoo Kim</strong>, K. Oh, and S. Lee<br>
@@ -343,7 +343,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 
 
 <tr>
-<th><img src="images/publications/oh_construction_2013.png"/></th>
+<!--<th><img src="images/publications/oh_construction_2013.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Construction of Stereoscopic 3D Video Database</strong></span><br>
     H. Oh, <strong>Jongyoo Kim</strong>, and S. Lee<br>
@@ -355,7 +355,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 
 
 <tr>
-<th><img src="images/publications/kim_effects_2012.png"/></th>
+<!--<th><img src="images/publications/kim_effects_2012.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Effects on 3D Experience by Space Distortion in Stereoscopic Video</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
@@ -367,7 +367,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 
 
 <tr>
-<th><img src="images/publications/kim_visual_2012.png"/></th>
+<!--<th><img src="images/publications/kim_visual_2012.png"/></th>-->
 <td>
     <span class="pub_title"><strong>Visual Stimuli Using 3D Graphic Software for 3D Quality Assessment</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
