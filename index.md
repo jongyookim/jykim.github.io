@@ -89,7 +89,7 @@ Email: jongky@yonsei.ac.kr-->
 <tr>
 <!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
 <td>
-    <span class="pub_title"><strong>Deep Learning of Human Visual Sensitivity in FR-IQA Framework</strong></span><br>
+    <span class="pub_title"><strong>Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017<br>
     [1]
@@ -97,7 +97,7 @@ Email: jongky@yonsei.ac.kr-->
     onclick='toggle("abs_kim_deep_2017")'>abs</a>]<br>
 
 <div id="abs_kim_deep_2017" style="text-align: justify; display: none" markdown="1">
-Since human observers are the ultimate receivers of digital images and videos, quality metrics should be designed from a human-oriented perspective. Conventionally, a number of full-reference image quality assessment (FR-IQA) methods adopted various computational models of the human visual system (HVS) from psychological vision science research. In this paper, we propose a novel convolutional neural networks (CNN) based FR-IQA metric, named deep image quality assessment (DeepQA), where the behavior of the HVS is learned from the underlying data distribution of an IQA database. Different from previous studies, our model seeks the optimal visual weight based on understanding of database information itself without any prior knowledge of the HVS. Through the experiments, we show that the predicted visual sensitivity maps agree with the human subjective opinions. In addition, DeepQA achieves the stat-of-the-art prediction accuracy among the FR-IQA metrics.
+Since human observers are the ultimate receivers of digital images, image quality metrics should be designed from a human-oriented perspective. Conventionally, a number of full-reference image quality assessment (FR-IQA) methods adopted various computational models of the human visual system (HVS) from psychological vision science research. In this paper, we propose a novel convolutional neural networks (CNN) based FR-IQA model, named Deep Image Quality Assessment (DeepQA), where the behavior of the HVS is learned from the underlying data distribution of IQA databases. Different from previous studies, our model seeks the optimal visual weight based on understanding of database information itself without any prior knowledge of the HVS. Through the experiments, we show that the predicted visual sensitivity maps agree with the human subjective opinions. In addition, DeepQA achieves the state-of-the-art prediction accuracy among FR-IQA models.
 </div>
 
 </td>
