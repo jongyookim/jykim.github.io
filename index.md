@@ -3,7 +3,6 @@ title: CV
 layout: default
 ---
 
-
 <table class="cv">
   <tr>
     <td>
@@ -29,15 +28,6 @@ layout: default
   </tr>
 </table>
 
-<!--<div style="text-align:left">
-<img src="jongyoo.jpg" alt="Drawing" style="width: 500px;"/>
-</div>-->
-
-<!--Ph.D Candidate<br>
-[Multidimensional Insight Lab.](http://insight.yonsei.ac.kr)<br>
-Yonsei University, Dept. of Electrical and Electronic Engineering<br>
-Tel.: +82-2-2123-7734<br>
-Email: jongky@yonsei.ac.kr-->
 
 ## Research Interest
 - Perceptual Image and Video Quality Assessment
@@ -47,8 +37,8 @@ Email: jongky@yonsei.ac.kr-->
 - Human Action Recognition
 - 3D Reconstruction
 
+<br>
 ## Education
-
 <!--<style>
 .blueone {
   border-collapse: collapse;
@@ -60,8 +50,7 @@ Email: jongky@yonsei.ac.kr-->
   padding: 5px 20px;
 }
 </style>-->
-
-<table class="type04">
+<table class="two_col_table">
   <tr>
     <th>Mar 2011 - Present</th>
     <td>
@@ -82,6 +71,7 @@ Email: jongky@yonsei.ac.kr-->
 </table>
 
 
+<br>
 ## Publications
 
 <table class="pub_table">
@@ -381,8 +371,9 @@ When each video sequence is captured, an inappropriate camera motion should be o
 </table>
 
 
+<br>
 ## Tech Reports & Standardization Documents
-<table class="type04">
+<table class="two_col_table">
 <tr>
   <th>2015</th>
   <td>
@@ -400,8 +391,9 @@ When each video sequence is captured, an inappropriate camera motion should be o
 </table>
 
 
+<br>
 ## Honors & Awards
-<table class="type04">
+<table class="two_col_table">
 <tr>
   <th>2015 - Present</th>
   <td>
@@ -429,8 +421,9 @@ When each video sequence is captured, an inappropriate camera motion should be o
 </table>
 
 
+<br>
 ## Software Engineering Skills
-<table class="type04">
+<table class="two_col_table">
 <tr>
   <th>Languages</th>
   <td markdown="1">
@@ -446,13 +439,13 @@ Theano, TensorFlow, Android SDK/NDK, NumPy, OpenCV
 </table>
 
 
-
+<br>
 <h2>Selected Project Experience
 <a href='javascript: none' onclick='toggle("proj_exp")'><font size="3">[+]</font></a><br>
 </h2>
 <div id="proj_exp" style="display: none" markdown="1">
 
-<table class="type04">
+<table class="two_col_table">
 
 <tr>
   <th>Apr 2017 -- Present</th>
