@@ -384,7 +384,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 <tr>
   <th>2015</th>
   <td>
-    3DTV Broadcasting Safety Guideline, 2015PG802-042, TTA
+    3DTV Broadcasting Safety Guideline, Telecommunications Technology Association, TTAK.KO-07.0086/R4
     <!--  -->
   </td>
 </tr>
@@ -397,7 +397,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 <tr>
   <th>2015 - Present</th>
   <td>
-    Secretary of the IEEE Human Factors for Visual Experiences WG (P3333.1.1/2)
+    Secretary of the IEEE Human Factors for Visual Experiences WG (P3333.1)
   </td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@ Theano, TensorFlow, Android SDK/NDK, NumPy, OpenCV
 
 <tr>
   <th>Apr 2017 -- Present</th>
-  <td><strong>Research on Controlling Human Factors for Generation and Utilization of Safe VR/AR Contents</strong>, Institute for Information & Communications Technology Promotion (IITP)</td>
+  <td><strong>Development of a Method for Regulating Human-factor Parameters for Reducing VR-induced Sickness</strong>, Institute for Information & Communications Technology Promotion (IITP)</td>
 </tr>
 <tr>
 <td colspan="100%">
