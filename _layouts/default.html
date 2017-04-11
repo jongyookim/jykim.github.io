@@ -7,23 +7,25 @@
 </head>
 <body>
 
-<div id="header">
-  <!--<span class='big'>{{ site.title }}</span>
-  <span class='small'>{{ site.subtitle }}</span>-->
-</div>
+<!--<div id="header">
+  <span class='big'>{{ site.title }}</span>
+  <span class='small'>{{ site.subtitle }}</span>
+</div>-->
 
 <div id="layer_fixed">
-  <table cellspacing="0" cellpadding="0" style="width:100%; height:100%;">
+  <table>
     <tr>
-      <td style="vertical-align: middle; padding-left: 20px; padding-right: 20px;">
+      <td style="padding-top: 0px; padding-left: 20px; padding-right: 20px;">
         <span class='layer_title'>{{ site.title }}</span>
       </td>
 
-      <td style="vertical-align: middle; text-align: right; padding-left: 20px; padding-right: 20px;">
-        <!--<div id="nav">
-          <a href="{{ 'index.html' | relative_url }}">Main</a> |
-          <a href="{{ 'two.html'   | relative_url }}">Contact</a>
-        </div>-->
+      <td style="padding-top: 0px; padding-left: 20px; padding-right: 20px;">
+        <div id="nav_menu">
+          <ul>
+            <li><a href="{{ 'index.html' | relative_url }}">Main</a></li>
+            <li><a href="{{ 'two.html'   | relative_url }}">Contact</a></li>
+          </ul>
+        </div>
       </td>
     </tr>
   </table>

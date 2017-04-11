@@ -14,7 +14,7 @@ layout: default
       <a href="http://yonsei.ac.kr/">Yonsei University</a><br>
       Tel.: +82-2-2123-7734<br>
       Email: jongky@yonsei.ac.kr<br>
-      <a href="http://jongyookim.github.io/data/cv_jongyoo.pdf"><strong>[Download CV]</strong></a><br>
+      <a href="http://jongyookim.github.io/data/cv_jongyoo.pdf"><strong>[Curriculum Vitae]</strong></a><br>
     </td>
     <td>
       <img src="jongyoo2.png" alt="Drawing" style="
