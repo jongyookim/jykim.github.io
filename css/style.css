@@ -41,7 +41,7 @@ a:hover {
 #layer_fixed {
   height:40px;
   width:100%;
-  color: white;
+  color: #FFF;
   font-size:12px;
   position:fixed;
   z-index:999;

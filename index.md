@@ -7,7 +7,7 @@ layout: default
 <table class="cv">
   <tr>
     <td>
-      <span class="pub_title"><font size="5"><strong>Jongyoo Kim</strong></font></span><br>
+      <span class="pub_title"><font size="5" color="white"><strong>Jongyoo Kim</strong></font></span><br>
       Ph.D Candidate<br>
       <a href="http://insight.yonsei.ac.kr">Multidimensional Insight Lab.</a><br>
       <a href="http://ee.yonsei.ac.kr/">Dept. of Electrical and Electronic Engineering</a><br>
