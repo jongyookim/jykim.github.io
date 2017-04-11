@@ -1,0 +1,131 @@
+/*
+ * css styles go here
+ */
+
+
+body {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+a, a:visited {
+  color: navy;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+#header {
+  padding: 15px;
+}
+
+#header .big {
+  color:        red;
+  font-size:   140%;
+  font-weight: bold;
+}
+
+#header .small {
+  font-size:    90%;
+  color:        grey;
+  padding-left: 15px;
+}
+
+#nav {
+  padding: 6px;
+}
+
+
+#layer_fixed {
+  height:40px;
+  width:100%;
+  color: white;
+  font-size:12px;
+  position:fixed;
+  z-index:999;
+  top:0px;
+  left:0px;
+  -webkit-box-shadow: 0 1px 2px 0 #777;
+  box-shadow: 0 1px 2px 0 #777;
+  background-color:#17193C;
+}
+
+#layer_fixed .big {
+  font-size:   140%;
+  font-weight: bold;
+}
+
+
+
+table.cv{
+  border-collapse: separate;
+  border-spacing: 1px;
+  text-align: center;
+  line-height: 1.5;
+  /*border-top: 1px solid #ccc;*/
+  font-size:    100%;
+  /*font-weight: bold;*/
+  /*margin : 20px 20px;*/
+}
+table.cv th, td {
+  padding: 15px;
+  font-weight: normal;
+  /*vertical-align: top;*/
+  /*border-bottom: 1px solid #ccc;*/
+}
+
+
+table.type05 {
+  border-collapse: separate;
+  border-spacing: 1px;
+  text-align: left;
+  line-height: 1.5;
+  border-top: 1px solid #ccc;
+  margin : 20px 10px;
+}
+table.type05 td {
+  width: 730px;
+  padding: 5px;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+}
+
+
+table.type04 {
+  border-collapse: separate;
+  border-spacing: 1px;
+  text-align: left;
+  line-height: 1.5;
+  border-top: 1px solid #ccc;
+  margin : 20px 10px;
+}
+table.type04 th {
+  width: 180px;
+  padding: 5px;
+  font-weight: normal;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+}
+table.type04 td {
+  width: 550px;
+  padding: 5px;
+  vertical-align: top;
+  border-bottom: 1px solid #ccc;
+}
+
+div.post_meta {
+	display: block;
+	width: 133px;
+	float: left;
+	clear: none;
+	padding: 0;
+	margin: 0;
+}
+
+.pub_title {
+  color: #3E85E8;
+}
+
+
