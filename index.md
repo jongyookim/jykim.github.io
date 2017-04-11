@@ -7,7 +7,7 @@ layout: default
   <tr>
     <td>
       <span class="blue_2"><font size="5"><strong>Jongyoo Kim</strong></font></span><br>
-      Ph.D Candidate<br>
+      Ph.D. Candidate<br>
       <a href="http://insight.yonsei.ac.kr">Multidimensional Insight Lab.</a><br>
       <a href="http://ee.yonsei.ac.kr/">Dept. of Electrical and Electronic Engineering</a><br>
       <a href="http://yonsei.ac.kr/">Yonsei University</a><br>

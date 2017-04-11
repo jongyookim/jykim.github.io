@@ -60,7 +60,7 @@ a:hover {
 
 #layer_fixed_bg {
   position: fixed;
-  height: 40px;
+  height: 42px;
   width: 100%;
   z-index: 999;
   top: 0px;
@@ -72,8 +72,8 @@ a:hover {
 
 #layer_fixed {
   position: fixed;
-  height: 40px;
-  width: 42rem;
+  height: 42px;
+  width: 56rem;
   top: 0;
   left: 0;
   right: 0;
@@ -88,7 +88,7 @@ a:hover {
 }
 
 #content {
-  margin-top: 40px;
+  margin-top: 42px;
 }
 
 .blue_1 {
@@ -103,7 +103,7 @@ a:hover {
 
 
 .container {
-  max-width: 42rem;
+  max-width: 56rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -112,13 +112,14 @@ a:hover {
 
 
 table.cv{
+  width: 54rem;
   border-collapse: separate;
   border-spacing: 1px;
   text-align: center;
   line-height: 1.5;
 }
 table.cv th, td {
-  padding: 1rem;
+  padding: 0.5rem 2rem;
   font-weight: normal;
 }
 
@@ -132,7 +133,7 @@ table.pub_table {
   margin : 0.5rem 1rem;
 }
 table.pub_table td {
-  width: 40rem;
+  width: 54rem;
   padding: 5px;
   vertical-align: top;
   border-bottom: 1px solid #ccc;
@@ -146,14 +147,14 @@ table.two_col_table {
   margin : 0.5rem 1rem;
 }
 table.two_col_table th {
-  width: 10rem;
+  width: 12rem;
   padding: 5px;
   font-weight: normal;
   vertical-align: top;
   border-bottom: 1px solid #ccc;
 }
 table.two_col_table td {
-  width: 30rem;
+  width: 42rem;
   padding: 5px;
   vertical-align: top;
   border-bottom: 1px solid #ccc;
