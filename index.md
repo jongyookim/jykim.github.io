@@ -7,7 +7,7 @@ layout: default
 <table class="cv">
   <tr>
     <td>
-      <span class="blue_highlight"><font size="5"><strong>Jongyoo Kim</strong></font></span><br>
+      <span class="blue_2"><font size="5"><strong>Jongyoo Kim</strong></font></span><br>
       Ph.D Candidate<br>
       <a href="http://insight.yonsei.ac.kr">Multidimensional Insight Lab.</a><br>
       <a href="http://ee.yonsei.ac.kr/">Dept. of Electrical and Electronic Engineering</a><br>
@@ -89,7 +89,7 @@ Email: jongky@yonsei.ac.kr-->
 <tr>
 <!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework</strong></span><br>
+    <span class="blue_2"><strong>Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017<br>
     [1]
@@ -107,7 +107,7 @@ Since human observers are the ultimate receivers of digital images, image qualit
 <tr>
 <!--<th><img src="images/publications/kim_quality_2017.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong></span><br>
+    <span class="blue_2"><strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong></span><br>
     <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. C. Bovik<br>
     IEEE Transactions on Image Processing (Accepted)<br>
     [2]
@@ -125,7 +125,7 @@ Crosstalk is one of the most severe factors affecting the perceived quality of s
 <tr>
 <!--<th><img src="images/publications/kim_fully_2016.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Fully Deep Blind Image Quality Predictor</strong></span><br>
+    <span class="blue_2"><strong>Fully Deep Blind Image Quality Predictor</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     IEEE Journal of Selected Topics in Signal Processing 2017<br>
     [3]
@@ -145,7 +145,7 @@ In general, owing to the benefits obtained from original information, full-refer
 <tr>
 <!--<th><img src="images/publications/lee_identification_2017.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>An Identification Framework for Print-Scan Books in a Large Database</strong></span><br>
+    <span class="blue_2"><strong>An Identification Framework for Print-Scan Books in a Large Database</strong></span><br>
     S. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     Information Sciences 2017<br>
     [4]
@@ -163,7 +163,7 @@ In this paper, we propose an identification framework to determine copyright inf
 <tr>
 <!--<th><img src="images/publications/kim_blind_2016-1.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Blind Sharpness Prediction for Ultra-High-Definition Video Based on Human Visual Resolution</strong></span><br>
+    <span class="blue_2"><strong>Blind Sharpness Prediction for Ultra-High-Definition Video Based on Human Visual Resolution</strong></span><br>
     H. Kim, <strong>Jongyoo Kim</strong>, T. Oh, and S. Lee<br>
     IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
     [5]
@@ -181,7 +181,7 @@ We explore a no-reference sharpness assessment model for predicting the perceptu
 <tr>
 <!--<th><img src="images/publications/kim_perceptual_2016.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Perceptual Crosstalk Prediction on Autostereoscopic 3D Display</strong></span><br>
+    <span class="blue_2"><strong>Perceptual Crosstalk Prediction on Autostereoscopic 3D Display</strong></span><br>
     T. Kim, <strong>Jongyoo Kim</strong>, S. Kim, S. Cho, and S. Lee<br>
     IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
     [6]
@@ -199,7 +199,7 @@ Perceptual crosstalk prediction for autostereoscopic 3D displays is of fundament
 <tr>
 <!--<th><img src="images/publications/kim_no-reference_2016.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>No-Reference Perceptual Sharpness Assessment for Ultra-High-Definition Images</strong></span><br>
+    <span class="blue_2"><strong>No-Reference Perceptual Sharpness Assessment for Ultra-High-Definition Images</strong></span><br>
     W. Kim, H. Kim, H. Oh, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     IEEE International Conference on Image Processing (ICIP) 2016<br>
     [7]
@@ -217,7 +217,7 @@ Since ultra-high-definition (UHD) display has larger resolution and various disp
 <tr>
 <!--<th><img src="images/publications/kim_human_2016.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Human Gait Prediction Method Using Microsoft Kinect</strong></span><br>
+    <span class="blue_2"><strong>Human Gait Prediction Method Using Microsoft Kinect</strong></span><br>
     J. Kim, D. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, and S. Lee<br>
     International Workshop on Advanced Image Technology (IWAIT) 2016<br>
     [8]
@@ -236,7 +236,7 @@ Real-time monitoring of elderly movement can provide valuable information regard
 <tr>
 <!--<th><img src="images/publications/kim_implementation_2015.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong></span><br>
+    <span class="blue_2"><strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong></span><br>
     J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015<br>
     [9]
@@ -255,7 +255,7 @@ Due to ease of implementation for various user interactive applications, much re
 <tr>
 <!--<th><img src="images/publications/kim_video_2015.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Video Sharpness Prediction Based on Motion Blur Analysis</strong></span><br>
+    <span class="blue_2"><strong>Video Sharpness Prediction Based on Motion Blur Analysis</strong></span><br>
     <strong>Jongyoo Kim</strong>, J. Kim, W. Kim, J. Lee, and S. Lee<br>
     IEEE International Conference on Multimedia and Expo (ICME) 2015<br>
     [10]
@@ -273,7 +273,7 @@ For high bit rate video, it is important to acquire the video contents with high
 <tr>
 <!--<th><img src="images/publications/oh_3d_2015.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>3D Visual Discomfort Predictor Based on Neural Activity Statistics</strong></span><br>
+    <span class="blue_2"><strong>3D Visual Discomfort Predictor Based on Neural Activity Statistics</strong></span><br>
     H. Oh, <strong>Jongyoo Kim</strong>, S. Lee, and A. C. Bovik<br>
     IEEE International Conference on Image Processing (ICIP) 2015<br>
     [11]
@@ -291,7 +291,7 @@ Visual discomfort assessment (VDA) on stereoscopic images is of fundamental impo
 <tr>
 <!--<th><img src="images/publications/kwon_implementation_2015.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Implementation of Human Action Recognition System Using Multiple Kinect Sensors</strong></span><br>
+    <span class="blue_2"><strong>Implementation of Human Action Recognition System Using Multiple Kinect Sensors</strong></span><br>
     B. Kwon, D. Kim, J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, H. Kim, and S. Lee<br>
     Advances in Multimedia Information Processing - PCM 2015<br>
     [12]
@@ -309,7 +309,7 @@ Human action recognition is an important research topic that has many potential 
 <tr>
 <!--<th><img src="images/publications/kim_quality_2014.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Quality Assessment of Perceptual Crosstalk in Autostereoscopic Display</strong></span><br>
+    <span class="blue_2"><strong>Quality Assessment of Perceptual Crosstalk in Autostereoscopic Display</strong></span><br>
     <strong>Jongyoo Kim</strong>, T. Kim, and S. Lee<br>
     IEEE International Conference on Image Processing (ICIP) 2014<br>
     [13]
@@ -327,7 +327,7 @@ Crosstalk is one of the most annoying problems in an autostereoscopic display ca
 <tr>
 <!--<th><img src="images/publications/kim_ego_2013.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Ego Motion Induced Visual Discomfort of Stereoscopic Video</strong></span><br>
+    <span class="blue_2"><strong>Ego Motion Induced Visual Discomfort of Stereoscopic Video</strong></span><br>
     <strong>Jongyoo Kim</strong>, K. Oh, and S. Lee<br>
     Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2013<br>
     [14]
@@ -345,7 +345,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 <tr>
 <!--<th><img src="images/publications/oh_construction_2013.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Construction of Stereoscopic 3D Video Database</strong></span><br>
+    <span class="blue_2"><strong>Construction of Stereoscopic 3D Video Database</strong></span><br>
     H. Oh, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     Global 3D TECH Forum 2013<br>
     [15]<br>
@@ -357,7 +357,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 <tr>
 <!--<th><img src="images/publications/kim_effects_2012.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Effects on 3D Experience by Space Distortion in Stereoscopic Video</strong></span><br>
+    <span class="blue_2"><strong>Effects on 3D Experience by Space Distortion in Stereoscopic Video</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     Global 3D TECH Forum 2012<br>
     [16]<br>
@@ -369,7 +369,7 @@ When each video sequence is captured, an inappropriate camera motion should be o
 <tr>
 <!--<th><img src="images/publications/kim_visual_2012.png"/></th>-->
 <td>
-    <span class="blue_highlight"><strong>Visual Stimuli Using 3D Graphic Software for 3D Quality Assessment</strong></span><br>
+    <span class="blue_2"><strong>Visual Stimuli Using 3D Graphic Software for 3D Quality Assessment</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     International Conference on 3D Systems and Applications (3DSA) 2012<br>
     [17]<br>
