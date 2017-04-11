@@ -11,15 +11,16 @@
   <span class='big'>{{ site.title }}</span>
   <span class='small'>{{ site.subtitle }}</span>
 </div>-->
-
+<div id="layer_fixed_bg">
+</div>
 <div id="layer_fixed">
-  <table>
+  <table width="100%" style="border-collapse: collapse; margin: 0px;">
     <tr>
-      <td style="padding-top: 0px; padding-left: 20px; padding-right: 20px;">
+      <td style="padding: 0px;">
         <span class='layer_title'>{{ site.title }}</span>
       </td>
 
-      <td style="padding-top: 0px; padding-left: 20px; padding-right: 20px;">
+      <td align="right" style="padding: 0px;">
         <div id="nav_menu">
           <ul>
             <li><a href="{{ 'index.html' | relative_url }}">Main</a></li>
@@ -31,6 +32,7 @@
   </table>
 </div>
 
+<div class="container">
 <!--<div id="nav">
   <a href="{{ 'index.html' | relative_url }}">CV</a> |
   <a href="{{ 'two.html'   | relative_url }}">Contact</a>
@@ -40,6 +42,7 @@
   {{ content }}
 </div>
 
+</div>
 <script src="scripts/main.js"></script>
 </body>
 </html>

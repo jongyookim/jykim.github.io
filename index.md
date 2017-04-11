@@ -84,7 +84,7 @@ Email: jongky@yonsei.ac.kr-->
 
 ## Publications
 
-<table class="type05">
+<table class="pub_table">
 
 <tr>
 <!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->

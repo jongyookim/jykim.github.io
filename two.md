@@ -3,7 +3,9 @@ layout: default
 title:  Contact
 ---
 
-# {{ page.title }}
+<!--# {{ page.title }}-->
+
+<br>
 
 [Multidimensional Insight Lab.](http://insight.yonsei.ac.kr)<br>
 Yonsei University, Dept. of Electrical and Electronic Engineering<br>
