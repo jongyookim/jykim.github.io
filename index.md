@@ -64,7 +64,7 @@ layout: default
   <tr>
     <th>Aug 2011 - Present</th>
     <td>
-        <strong>Intern</strong> (4.03/4.30)<br>
+        <strong>Intern</strong><br>
         Supervised by Dr. Chong Luo
         <br>
       Microsoft Research Asia, Beijing, China
