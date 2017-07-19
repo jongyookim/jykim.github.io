@@ -62,7 +62,7 @@ layout: default
     </td>
   </tr>
   <tr>
-    <th>Aug 2011 - Present</th>
+    <th>Aug 2017 - Present</th>
     <td>
         <strong>Intern</strong><br>
         Supervised by Dr. Chong Luo
