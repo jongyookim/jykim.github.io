@@ -13,7 +13,9 @@ layout: default
       <a href="http://yonsei.ac.kr/">Yonsei University</a><br>
       Tel.: +82-2-2123-7734<br>
       Email: jongky@yonsei.ac.kr<br>
+      <a href="https://github.com/jongyookim/">[GitHub]</a><br>
       <a href="http://jongyookim.github.io/data/cv_jongyookim.pdf"><strong>[Curriculum Vitae]</strong></a><br>
+
     </td>
     <td>
       <img src="jongyoo2.png" alt="Drawing" style="
@@ -60,6 +62,15 @@ layout: default
     </td>
   </tr>
   <tr>
+    <th>Aug 2017 - Present</th>
+    <td>
+        <strong>Intern</strong><br>
+        Supervised by Dr. Chong Luo
+        <br>
+      Microsoft Research Asia, Beijing, China
+    </td>
+  </tr>
+  <tr>
     <th>Mar 2007 - Feb 2011</th>
     <td>
         <strong>B.S. in Electrical and Electronic Engineering</strong> (3.67/4.30)
@@ -78,10 +89,60 @@ layout: default
 <tr>
 <!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
 <td>
+    <span class="blue_2"><strong>Deep convolutional neural models for picture quality prediction</strong></span><br>
+    <strong>Jongyoo Kim</strong>, H. Zeng, D. Ghadiyaram, S. Lee, L. Zhang and A. C. Bovik<br>
+    IEEE Signal Processing Magazine<br>
+[<a href='javascript: none'
+    onclick='toggle("abs_kim_deep_spm_2017")'>abs</a>]<br>
+
+<div id="abs_kim_deep_spm_2017" style="text-align: justify; display: none" markdown="1">
+...
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
+<td>
+    <span class="blue_2"><strong>Deep Blind Image Quality Assessment by Employing FR-IQA</strong></span><br>
+    <strong>Jongyoo Kim</strong> and S. Lee<br>
+    IEEE Conference on Image Processing (ICIP), 2017<br>
+[<a href='javascript: none'
+    onclick='toggle("abs_kim_deep_icip_2017")'>abs</a>]<br>
+
+<div id="abs_kim_deep_icip_2017" style="text-align: justify; display: none" markdown="1">
+...
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
+<td>
+    <span class="blue_2"><strong>Blind Deep S3D Image Quality Evaluation via Local to Global Feature Aggregation</strong></span><br>
+    H. Oh, S. Ahn, <strong>Jongyoo Kim</strong>, and S. Lee<br>
+    IEEE Transactions on Image Processing<br>
+[<a href='javascript: none'
+    onclick='toggle("abs_oh_blind_2017")'>abs</a>]<br>
+
+<div id="abs_oh_blind_2017" style="text-align: justify; display: none" markdown="1">
+...
+</div>
+
+</td>
+</tr>
+
+
+<tr>
+<!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
+<td>
     <span class="blue_2"><strong>Deep Learning of Human Visual Sensitivity in Image Quality Assessment Framework</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017<br>
-    [1]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_deep_2017")'>abs</a>]<br>
 
@@ -94,12 +155,28 @@ Since human observers are the ultimate receivers of digital images, image qualit
 
 
 <tr>
+<!--<th><img src="images/publications/kim_deep_2017.png"/></th>-->
+<td>
+    <span class="blue_2"><strong>Enhancement of Visual Comfort and Sense of Presence on Stereoscopic 3D Images</strong></span><br>
+    H. Oh, <strong>Jongyoo Kim</strong>, J. Kim, T. Kim, S. Lee, and A. C. Bovik<br>
+    IEEE Transactions on Image Processing<br>
+[<a href='javascript: none'
+    onclick='toggle("abs_oh_enhancement_2017")'>abs</a>]<br>
+
+<div id="abs_oh_enhancement_2017" style="text-align: justify; display: none" markdown="1">
+...
+</div>
+
+</td>
+</tr>
+
+
+<tr>
 <!--<th><img src="images/publications/kim_quality_2017.png"/></th>-->
 <td>
     <span class="blue_2"><strong>Quality Assessment of Perceptual Crosstalk on Two-View Auto-Stereoscopic Displays</strong></span><br>
     <strong>Jongyoo Kim</strong>, T. Kim, S. Lee, and A. C. Bovik<br>
     IEEE Transactions on Image Processing (Accepted)<br>
-    [2]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_quality_2017")'>abs</a>]<br>
 
@@ -117,7 +194,6 @@ Crosstalk is one of the most severe factors affecting the perceived quality of s
     <span class="blue_2"><strong>Fully Deep Blind Image Quality Predictor</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     IEEE Journal of Selected Topics in Signal Processing 2017<br>
-    [3]
 <!--[<a href='javascript: none'
     onclick='toggle("abs_kim_fully_2016")'>abs</a>]<br>-->
 [<a href='javascript: none'
@@ -137,7 +213,6 @@ In general, owing to the benefits obtained from original information, full-refer
     <span class="blue_2"><strong>An Identification Framework for Print-Scan Books in a Large Database</strong></span><br>
     S. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     Information Sciences 2017<br>
-    [4]
 [<a href='javascript: none'
     onclick='toggle("abs_lee_identification_2017")'>abs</a>]<br>
 
@@ -155,7 +230,6 @@ In this paper, we propose an identification framework to determine copyright inf
     <span class="blue_2"><strong>Blind Sharpness Prediction for Ultra-High-Definition Video Based on Human Visual Resolution</strong></span><br>
     H. Kim, <strong>Jongyoo Kim</strong>, T. Oh, and S. Lee<br>
     IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
-    [5]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_blind_2016-1")'>abs</a>]<br>
 
@@ -173,7 +247,6 @@ We explore a no-reference sharpness assessment model for predicting the perceptu
     <span class="blue_2"><strong>Perceptual Crosstalk Prediction on Autostereoscopic 3D Display</strong></span><br>
     T. Kim, <strong>Jongyoo Kim</strong>, S. Kim, S. Cho, and S. Lee<br>
     IEEE Transactions on Circuits and Systems for Video Technology 2016<br>
-    [6]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_perceptual_2016")'>abs</a>]<br>
 
@@ -191,7 +264,6 @@ Perceptual crosstalk prediction for autostereoscopic 3D displays is of fundament
     <span class="blue_2"><strong>No-Reference Perceptual Sharpness Assessment for Ultra-High-Definition Images</strong></span><br>
     W. Kim, H. Kim, H. Oh, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     IEEE International Conference on Image Processing (ICIP) 2016<br>
-    [7]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_no-reference_2016")'>abs</a>]<br>
 
@@ -209,7 +281,6 @@ Since ultra-high-definition (UHD) display has larger resolution and various disp
     <span class="blue_2"><strong>Human Gait Prediction Method Using Microsoft Kinect</strong></span><br>
     J. Kim, D. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, and S. Lee<br>
     International Workshop on Advanced Image Technology (IWAIT) 2016<br>
-    [8]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_human_2016")'>abs</a>]<br>
 
@@ -228,7 +299,6 @@ Real-time monitoring of elderly movement can provide valuable information regard
     <span class="blue_2"><strong>Implementation of an Omnidirectional Human Motion Capture System Using Multiple Kinect Sensors</strong></span><br>
     J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences 2015<br>
-    [9]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_implementation_2015")'>abs</a>]<br>
 
@@ -247,7 +317,6 @@ Due to ease of implementation for various user interactive applications, much re
     <span class="blue_2"><strong>Video Sharpness Prediction Based on Motion Blur Analysis</strong></span><br>
     <strong>Jongyoo Kim</strong>, J. Kim, W. Kim, J. Lee, and S. Lee<br>
     IEEE International Conference on Multimedia and Expo (ICME) 2015<br>
-    [10]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_video_2015")'>abs</a>]<br>
 
@@ -265,7 +334,6 @@ For high bit rate video, it is important to acquire the video contents with high
     <span class="blue_2"><strong>3D Visual Discomfort Predictor Based on Neural Activity Statistics</strong></span><br>
     H. Oh, <strong>Jongyoo Kim</strong>, S. Lee, and A. C. Bovik<br>
     IEEE International Conference on Image Processing (ICIP) 2015<br>
-    [11]
 [<a href='javascript: none'
     onclick='toggle("abs_oh_3d_2015")'>abs</a>]<br>
 
@@ -283,7 +351,6 @@ Visual discomfort assessment (VDA) on stereoscopic images is of fundamental impo
     <span class="blue_2"><strong>Implementation of Human Action Recognition System Using Multiple Kinect Sensors</strong></span><br>
     B. Kwon, D. Kim, J. Kim, I. Lee, <strong>Jongyoo Kim</strong>, H. Oh, H. Kim, and S. Lee<br>
     Advances in Multimedia Information Processing - PCM 2015<br>
-    [12]
 [<a href='javascript: none'
     onclick='toggle("abs_kwon_implementation_2015")'>abs</a>]<br>
 
@@ -301,7 +368,6 @@ Human action recognition is an important research topic that has many potential 
     <span class="blue_2"><strong>Quality Assessment of Perceptual Crosstalk in Autostereoscopic Display</strong></span><br>
     <strong>Jongyoo Kim</strong>, T. Kim, and S. Lee<br>
     IEEE International Conference on Image Processing (ICIP) 2014<br>
-    [13]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_quality_2014")'>abs</a>]<br>
 
@@ -319,7 +385,6 @@ Crosstalk is one of the most annoying problems in an autostereoscopic display ca
     <span class="blue_2"><strong>Ego Motion Induced Visual Discomfort of Stereoscopic Video</strong></span><br>
     <strong>Jongyoo Kim</strong>, K. Oh, and S. Lee<br>
     Asia-Pacific Signal and Information Processing Association Annual Summit and Conference 2013<br>
-    [14]
 [<a href='javascript: none'
     onclick='toggle("abs_kim_ego_2013")'>abs</a>]<br>
 
