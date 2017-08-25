@@ -35,8 +35,8 @@ layout: default
 - Video Object Segmentation
 - Deep Learning
 - 3D Reconstruction
-
 <br>
+
 ## Education
 <!--<style>
 .blueone {
