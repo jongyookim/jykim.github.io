@@ -438,7 +438,6 @@ When each video sequence is captured, an inappropriate camera motion should be o
     <span class="blue_2"><strong>Construction of Stereoscopic 3D Video Database</strong></span><br>
     H. Oh, <strong>Jongyoo Kim</strong>, and S. Lee<br>
     Global 3D TECH Forum 2013<br>
-    [15]<br>
 
 </td>
 </tr>
@@ -450,7 +449,6 @@ When each video sequence is captured, an inappropriate camera motion should be o
     <span class="blue_2"><strong>Effects on 3D Experience by Space Distortion in Stereoscopic Video</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     Global 3D TECH Forum 2012<br>
-    [16]<br>
 
 </td>
 </tr>
@@ -462,7 +460,6 @@ When each video sequence is captured, an inappropriate camera motion should be o
     <span class="blue_2"><strong>Visual Stimuli Using 3D Graphic Software for 3D Quality Assessment</strong></span><br>
     <strong>Jongyoo Kim</strong> and S. Lee<br>
     International Conference on 3D Systems and Applications (3DSA) 2012<br>
-    [17]<br>
 
 </td>
 </tr>
