@@ -13,7 +13,7 @@ layout: default
       <a href="http://yonsei.ac.kr/">Yonsei University</a><br>
       Tel.: +82-2-2123-7734<br>
       Email: jongky@yonsei.ac.kr<br>
-      <a href="http://jongyookim.github.io/data/cv_jongyoo.pdf"><strong>[Curriculum Vitae]</strong></a><br>
+      <a href="http://jongyookim.github.io/data/cv_jongyookim.pdf"><strong>[Curriculum Vitae]</strong></a><br>
     </td>
     <td>
       <img src="jongyoo2.png" alt="Drawing" style="
@@ -30,11 +30,10 @@ layout: default
 
 
 ## Research Interest
-- Perceptual Image and Video Quality Assessment
+- Perceptual Image/Video Quality Assessment
 - Quality of Experience Assessment of 2D/3D/VR Images and Videos
-- Visual Discomfort Assessment of 3D Stereoscopic and VR Contents
-- Deep Learning and Convolutional Neural Networks
-- Human Action Recognition
+- Video Object Segmentation
+- Deep Learning
 - 3D Reconstruction
 
 <br>
@@ -52,9 +51,9 @@ layout: default
 </style>-->
 <table class="two_col_table">
   <tr>
-    <th>Mar 2011 - Present</th>
+    <th>Mar 2011 - Feb 2017; expected</th>
     <td>
-        <strong>Ph.D. in Electrical and Electronic Engineering</strong> (4.03/4.30)<br>
+        <strong>M.S. and Ph.D. in Electrical and Electronic Engineering</strong> (4.03/4.30)<br>
         Supervised by Prof. Sanghoon Lee
         <br>
       Yonsei University, Seoul, Korea
