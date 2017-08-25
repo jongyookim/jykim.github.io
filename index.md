@@ -60,7 +60,8 @@ layout: default
       Yonsei University, Seoul, Korea
     </td>
   </tr>
-  <tr>
+
+  <!-- <tr>
     <th>Aug 2017 - Present</th>
     <td>
         <strong>Intern</strong><br>
@@ -68,7 +69,8 @@ layout: default
         <br>
       Microsoft Research Asia, Beijing, China
     </td>
-  </tr>
+  </tr> -->
+
   <tr>
     <th>Mar 2007 - Feb 2011</th>
     <td>
@@ -77,6 +79,41 @@ layout: default
       Yonsei University, Seoul, Korea
     </td>
   </tr>
+</table>
+
+## Experience
+<!--<style>
+.blueone {
+  border-collapse: collapse;
+}
+.blueone th, td {
+  padding: 10px;
+  border-bottom: 1px solid gray;
+  text-align: left;
+  padding: 5px 20px;
+}
+</style>-->
+<table class="two_col_table">
+  <tr>
+    <th>Aug 2017 - Present</th>
+    <td>
+        <strong>Research Intern</strong><br>
+        Supervised by Dr. Chong Luo
+        <br>
+      Microsoft Research Asia, Beijing, China
+    </td>
+  </tr>
+
+  <tr>
+    <th>Jul 2015 - Present</th>
+    <td>
+        <strong>Secretary</strong><br>
+        IEEE Human Factors for Visual Experiences Working Group
+        <br>
+      Seoul, Korea
+    </td>
+  </tr>
+
 </table>
 
 
