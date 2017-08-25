@@ -15,7 +15,6 @@ layout: default
       Email: jongky@yonsei.ac.kr<br>
       <a href="https://github.com/jongyookim/">[GitHub]</a><br>
       <a href="http://jongyookim.github.io/data/cv_jongyookim.pdf"><strong>[Curriculum Vitae]</strong></a><br>
-
     </td>
     <td>
       <img src="jongyoo2.png" alt="Drawing" style="
