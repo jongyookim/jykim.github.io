@@ -495,23 +495,19 @@ When each video sequence is captured, an inappropriate camera motion should be o
 ## Honors & Awards
 <table class="two_col_table">
 <tr>
-  <th>2015 - Present</th>
-  <td>
-    Secretary of the IEEE Human Factors for Visual Experiences WG (P3333.1)
-  </td>
-</tr>
-<tr>
   <th>2016</th>
   <td>
-    Bronze Best Paper Award in IEEE Seoul Section Student Paper Contest 2016
+    Bronze Best Paper Award, IEEE Seoul Section Student Paper Contest 2016
   </td>
 </tr>
+
 <tr>
   <th>2011 - 2016</th>
   <td>
     Global Ph.D Fellowship, National Research Foundation of Korea
   </td>
 </tr>
+
 <tr>
   <th>2013</th>
   <td>
@@ -527,19 +523,19 @@ When each video sequence is captured, an inappropriate camera motion should be o
 <tr>
   <th>Languages</th>
   <td markdown="1">
-C, C++, Java, Mathematica, Matlab, Python, LaTeX
+C, C++, Matlab, Python, LaTeX
   </td>
 </tr>
 <tr>
   <th>Frameworks</th>
   <td markdown="1">
-Theano, TensorFlow, Android SDK/NDK, NumPy, OpenCV
+Theano, TensorFlow, NumPy, OpenCV, OpenGL
   </td>
 </tr>
 </table>
 
 
-<br>
+<!-- <br>
 <h2>Selected Project Experience
 <a href='javascript: none' onclick='toggle("proj_exp")'><font size="3">[+]</font></a><br>
 </h2>
@@ -684,4 +680,4 @@ I developed a quality measuring model considering display geometry to find optim
 
 </table>
 
-</div>
+</div> -->
