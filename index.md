@@ -52,7 +52,7 @@ layout: default
 </style>-->
 <table class="two_col_table">
   <tr>
-    <th>Mar 2011 - Feb 2017; expected</th>
+    <th>Mar 2011 - Feb 2018; expected</th>
     <td>
         <strong>M.S. and Ph.D. in Electrical and Electronic Engineering</strong> (4.03/4.30)<br>
         Supervised by Prof. Sanghoon Lee
