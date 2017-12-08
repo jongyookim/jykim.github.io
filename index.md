@@ -14,7 +14,7 @@ layout: default
       Tel.: +82-2-2123-7734<br>
       Email: jongky@yonsei.ac.kr<br>
       <a href="https://github.com/jongyookim/">[GitHub]</a><br>
-      <a href="http://jongyookim.github.io/data/cv_jongyookim.pdf"><strong>[Curriculum Vitae]</strong></a><br>
+      <a href="http://jongyookim.github.io/data/cv_jongyookim_paper.pdf"><strong>[Curriculum Vitae]</strong></a><br>
     </td>
     <td>
       <img src="jongyoo2.png" alt="Drawing" style="
@@ -95,7 +95,7 @@ layout: default
 </style>-->
 <table class="two_col_table">
   <tr>
-    <th>Aug 2017 - Present</th>
+    <th>Aug 2017 - Nov 2017</th>
     <td>
         <strong>Research Intern</strong><br>
         Supervised by Dr. Chong Luo
@@ -105,7 +105,7 @@ layout: default
   </tr>
 
   <tr>
-    <th>Jul 2015 - Present</th>
+    <th>Jul 2015 - Sep 2017</th>
     <td>
         <strong>Secretary</strong><br>
         IEEE Human Factors for Visual Experiences Working Group
