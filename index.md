@@ -472,6 +472,13 @@ When each video sequence is captured, an inappropriate camera motion should be o
 ## Tech Reports & Standardization Documents
 <table class="two_col_table">
 <tr>
+  <th>2017</th>
+  <td>
+    IEEE Draft Standard for the Perceptual Quality Assessment of Three Dimensional (3D) and Ultra High Definition (UHD) Contents, in IEEE Std 3333.1.2, (Approved).
+    <!--  -->
+  </td>
+</tr>
+<tr>
   <th>2015</th>
   <td>
     IEEE Standard for Quality of Experience (QoE) and Visual-Comfort Assessments of Three-Dimensional (3D) Contents Based on Psychophysical Studies, in IEEE Std 3333.1.1-2015
@@ -530,151 +537,3 @@ Theano, TensorFlow, NumPy, OpenCV, OpenGL
   </td>
 </tr>
 </table>
-
-
-<!-- <br>
-<h2>Selected Project Experience
-<a href='javascript: none' onclick='toggle("proj_exp")'><font size="3">[+]</font></a><br>
-</h2>
-<div id="proj_exp" style="display: none" markdown="1">
-
-<table class="two_col_table">
-
-<tr>
-  <th>Apr 2017 -- Present</th>
-  <td><strong>Development of a Method for Regulating Human-factor Parameters for Reducing VR-induced Sickness</strong>, Institute for Information & Communications Technology Promotion (IITP)</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed an algorithm of quality of experience assessment of VR and AR contents based on psychophysical and clinical analysis.
-</li>
-</ul>
-</td>
-</tr>
-
-<tr>
-  <th>Jan 2017 -- Present</th>
-  <td><strong>Development of GPU Hardware for Real-time and Realistic Virtual Reality</strong>, Institute for Information & Communications Technology Promotion (IITP)</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed a perceptual quality assessment algorithm of GPU-rendered images for VR application.
-</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-  <th>Jul 2016 -- Present</th>
-  <td><strong>A VR Emotion Study Based on Visual Perception and Artificial Intelligence</strong>, National Research Foundation of Korea (NRF)</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed a convolutional neural network based no-reference image and stereoscopic 3D image quality assessment algorithm.
-</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-  <th>Jun 2015 -- Present</th>
-  <td><strong>Research on Video Coding Scheme by Predicting Quality Processing</strong>, Samsung Electronics</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed a video quality assessment algorithm to enhance the video coding scheme.
-</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-  <th>Apr 2014 -- Feb 2017</th>
-  <td><strong>Research on Human Safety and Contents Quality Assessment for Realistic Broadcasting</strong>, Institute for Information & Communications Technology Promotion (IITP)</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed a visual discomfort prediction method of 3D stereoscopic images and videos.
-</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-  <th>May 2013 -- Feb 2017</th>
-  <td><strong>Development of ODM-interactive Software Technology supporting Live-Virtual Soldier Exercises</strong>, Institute for Information & Communications Technology Promotion (IITP)</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed a real-time human pose estimation system where six Microsoft Kinects and omni-directional treadmill are used.
-In addition, I developed a real-time human action recognition algorithm for virtual interface.
-</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-  <th>Mar 2015 -- Feb 2016</th>
-  <td><strong>Identification and Copy Protection Technology of Book-scanned Text/Comic Books</strong>, Korea Copyright Commission</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed an efficient algorithm for searching and matching an input comic book from a database.
-</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-  <th>Mar 2015 -- Feb 2016</th>
-  <td><strong>Research on Feature Extraction and DB Construction for Image-based Indoor Localization</strong>, Electronics and Telecommunications Research Institute (ETRI)</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed a SLAM algorithm using stereoscopic video streams.
-</li>
-</ul>
-</td>
-</tr>
-
-
-<tr>
-  <th>Feb 2012 -- Apr 2014</th>
-  <td><strong>Implementation of Automatic Measure For 3D Quality Enhancement</strong>, Samsung Electronics
-</td>
-</tr>
-<tr>
-<td colspan="100%">
-<ul>
-<li markdown="1">
-I developed a quality measuring model considering display geometry to find optimal enhancement degree.
-</li>
-</ul>
-</td>
-</tr>
-
-</table>
-
-</div> -->
