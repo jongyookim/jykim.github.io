@@ -17,7 +17,7 @@ layout: default
       <a href="http://jongyookim.github.io/data/cv_jongyookim_paper.pdf"><strong>[Curriculum Vitae]</strong></a><br>
     </td>
     <td>
-      <img src="jongyoo2.png" alt="Drawing" style="
+      <img src="jongyoo.png" alt="Drawing" style="
       height: 240px;
       border: 5px solid #ccc;
       border-radius: 10px;
@@ -52,7 +52,7 @@ layout: default
 </style>-->
 <table class="two_col_table">
   <tr>
-    <th>Mar 2011 - Feb 2018; expected</th>
+    <th>Mar 2011 - Feb 2018</th>
     <td>
         <strong>M.S. and Ph.D. in Electrical and Electronic Engineering</strong> (4.03/4.30)<br>
         Supervised by Prof. Sanghoon Lee
